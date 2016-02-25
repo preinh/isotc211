@@ -1,0 +1,1038 @@
+<http://iso.org/tc211/term/2> <http://www.w3.org/2004/02/skos/core#definition> "betegnelse dannet ved at udelade ord eller bogstaver fra en l\u00E6ngere form af et begreb som betegner det samme"^^<@da> .
+<http://iso.org/tc211/term/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/2> <http://www.w3.org/2004/02/skos/core#prefLabel> "forkortelse"^^<@da> .
+
+<http://iso.org/tc211/term/3> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Et abstrakt testforl\u00F8b er et formelt grundlag for at kunne udvikle eksekverbare testforl\u00F8b. Et eller flere testform\u00E5l er samlet i det abstrakte testforl\u00F8b. Et abstrakt testforl\u00F8b er b\u00E5de uafh\u00E6ngigt af implementeringen og af v\u00E6rdierne. Testforl\u00F8bet b\u00F8r v\u00E6re fuldst\u00E6ndigt, dvs. tilstr\u00E6kkeligt omfattende til at fremkomme med en testafg\u00F8relse, som kan knyttes utvetydigt til ethvert muligt testudfald (fx en sekvens af test events)."^^<@da> .
+<http://iso.org/tc211/term/3> <http://www.w3.org/2004/02/skos/core#prefLabel> "abstrakt testforl\u00F8b"^^<@da> .
+<http://iso.org/tc211/term/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/3> <http://www.w3.org/2004/02/skos/core#definition> "generaliseret test for et bestemt krav"^^<@da> .
+<http://iso.org/tc211/term/3> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Et abstrakt testforl\u00F8b er et formelt grundlag for at kunne udvikle eksekverbare testforl\u00F8b. Et eller flere testform\u00E5l er samlet i det abstrakte testforl\u00F8b. Et abstrakt testforl\u00F8b er b\u00E5de uafh\u00E6ngigt af implementeringen og af v\u00E6rdierne. Testforl\u00F8bet b\u00F8r v\u00E6re fuldst\u00E6ndigt, dvs. tilstr\u00E6kkeligt omfattende til at fremkomme med en testafg\u00F8relse, som kan knyttes utvetydigt til ethvert muligt testudfald (fx en sekvens af test events)."^^<@da> .
+
+<http://iso.org/tc211/term/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/4> <http://www.w3.org/2004/02/skos/core#prefLabel> "abstrakt testmetode"^^<@da> .
+<http://iso.org/tc211/term/4> <http://www.w3.org/2004/02/skos/core#definition> "metode til at teste implementering uafh\u00E6ngigt af testprocedure"^^<@da> .
+
+<http://iso.org/tc211/term/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/5> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Abstrakte testmoduler kan h\u00E6nge hierarkisk sammen."^^<@da> .
+<http://iso.org/tc211/term/5> <http://www.w3.org/2004/02/skos/core#definition> "s\u00E6t af forbundne abstrakte testforl\u00F8b"^^<@da> .
+<http://iso.org/tc211/term/5> <http://www.w3.org/2004/02/skos/core#prefLabel> "abstrakt testmodul"^^<@da> .
+<http://iso.org/tc211/term/5> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Abstrakte testmoduler kan h\u00E6nge hierarkisk sammen."^^<@da> .
+
+<http://iso.org/tc211/term/6> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Abstrakte testsuiter er beskrevet i en overensstemmelsesklausul."^^<@da> .
+<http://iso.org/tc211/term/6> <http://www.w3.org/2004/02/skos/core#definition> "abstrakt testmodul, som specificerer alle krav, der skal opfyldes for, at der er overensstemmelse"^^<@da> .
+<http://iso.org/tc211/term/6> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Abstrakte testsuiter er beskrevet i en overensstemmelsesklausul."^^<@da> .
+<http://iso.org/tc211/term/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/6> <http://www.w3.org/2004/02/skos/core#prefLabel> "abstrakt testsuite"^^<@da> .
+
+<http://iso.org/tc211/term/7> <http://www.w3.org/2004/02/skos/core#definition> "proces til bestemmelse af, om en implementering opfylder acceptance-kriterier og s\u00E6tter brugeren i stand til at afg\u00F8re, om implementeringen skal accepteres"^^<@da> .
+<http://iso.org/tc211/term/7> <http://www.w3.org/2004/02/skos/core#note> "NOTE 2 \u2013 Dette indg\u00E5r ikke i overensstemmelsestest."^^<@da> .
+<http://iso.org/tc211/term/7> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE 2 \u2013 Dette indg\u00E5r ikke i overensstemmelsestest."^^<@da> .
+<http://iso.org/tc211/term/7> <http://www.w3.org/2004/02/skos/core#note> "NOTE 1 \u2013 Dette omfatter planl\u00E6gning og gennemf\u00F8relse af forskellige slags test (fx funktions-, volumen-, performancetest), som viser, at implementeringen opfylder brugerens krav."^^<@da> .
+<http://iso.org/tc211/term/7> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE 1 \u2013 Dette omfatter planl\u00E6gning og gennemf\u00F8relse af forskellige slags test (fx funktions-, volumen-, performancetest), som viser, at implementeringen opfylder brugerens krav."^^<@da> .
+<http://iso.org/tc211/term/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/7> <http://www.w3.org/2004/02/skos/core#prefLabel> "acceptance test (bruger)"^^<@da> .
+
+<http://iso.org/tc211/term/8> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Et testresultat kan v\u00E6re observationer eller m\u00E5linger."^^<@da> .
+<http://iso.org/tc211/term/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/8> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Et testresultat kan v\u00E6re observationer eller m\u00E5linger."^^<@da> .
+<http://iso.org/tc211/term/8> <http://www.w3.org/2004/02/skos/core#prefLabel> "n\u00F8jagtighed"^^<@da> .
+<http://iso.org/tc211/term/8> <http://www.w3.org/2004/02/skos/core#definition> "grad af overensstemmelse mellem et testresultat og den accepterede referencev\u00E6rdi"^^<@da> .
+
+<http://iso.org/tc211/term/9> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 En akt\u00F8r kan anses for at spille en forskellig rolle i hver use case, som vedkommende er med i."^^<@da> .
+<http://iso.org/tc211/term/9> <http://www.w3.org/2004/02/skos/core#prefLabel> "akt\u00F8r <UML>"^^<@da> .
+<http://iso.org/tc211/term/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/9> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 En akt\u00F8r kan anses for at spille en forskellig rolle i hver use case, som vedkommende er med i."^^<@da> .
+<http://iso.org/tc211/term/9> <http://www.w3.org/2004/02/skos/core#definition> "sammenh\u00E6ngende s\u00E6t af roller, som brugere af use cases spiller i forhold til disse use cases"^^<@da> .
+
+<http://iso.org/tc211/term/10> <http://www.w3.org/2004/02/skos/core#definition> "term, klassificeret efter en skala for tilladte termer, anvendt som synonym for en foretrukket term"^^<@da> .
+<http://iso.org/tc211/term/10> <http://www.w3.org/2004/02/skos/core#prefLabel> "tilladt term"^^<@da> .
+<http://iso.org/tc211/term/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/11> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Se komposition"^^<@da> .
+<http://iso.org/tc211/term/11> <http://www.w3.org/2004/02/skos/core#prefLabel> "aggregering <UML>"^^<@da> .
+<http://iso.org/tc211/term/11> <http://www.w3.org/2004/02/skos/core#definition> "s\u00E6rlig form for association, der specificerer et helhed-del-forhold mellem en klasse, som indtager rollen som helheden, og en eller flere klasser, som indtager rollen som del"^^<@da> .
+<http://iso.org/tc211/term/11> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Se komposition"^^<@da> .
+
+<http://iso.org/tc211/term/13> <http://www.w3.org/2004/02/skos/core#prefLabel> "annotation"^^<@da> .
+<http://iso.org/tc211/term/13> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Tal, bogstaver, symboler og signaturer er eksempler p\u00E5 annotation."^^<@da> .
+<http://iso.org/tc211/term/13> <http://www.w3.org/2004/02/skos/core#definition> "markering p\u00E5 illustrativt materiale med henblik p\u00E5 tydeligg\u00F8relse"^^<@da> .
+<http://iso.org/tc211/term/13> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Tal, bogstaver, symboler og signaturer er eksempler p\u00E5 annotation."^^<@da> .
+<http://iso.org/tc211/term/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/14> <http://www.w3.org/2004/02/skos/core#definition> "manipulation og behandling af data for at opfylde brugerkrav"^^<@da> .
+<http://iso.org/tc211/term/14> <http://www.w3.org/2004/02/skos/core#prefLabel> "applikation"^^<@da> .
+<http://iso.org/tc211/term/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/15> <http://www.w3.org/2004/02/skos/core#definition> "konceptuel datamodel, der er n\u00F8dvendig for en eller flere applikationer"^^<@da> .
+<http://iso.org/tc211/term/15> <http://www.w3.org/2004/02/skos/core#prefLabel> "applikationsmodel"^^<@da> .
+
+<http://iso.org/tc211/term/17> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 En bin\u00E6r association er en association imellem n\u00F8jagtig to klassifikatorer (inkl. muligheden for en association fra en klassifikator til sig selv)."^^<@da> .
+<http://iso.org/tc211/term/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/17> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 En bin\u00E6r association er en association imellem n\u00F8jagtig to klassifikatorer (inkl. muligheden for en association fra en klassifikator til sig selv)."^^<@da> .
+<http://iso.org/tc211/term/17> <http://www.w3.org/2004/02/skos/core#prefLabel> "association <UML>"^^<@da> .
+<http://iso.org/tc211/term/17> <http://www.w3.org/2004/02/skos/core#definition> "semantisk sammenh\u00E6ng imellem to eller flere klassifikatorer, som specificerer forbindelser mellem deres instanser"^^<@da> .
+
+<http://iso.org/tc211/term/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/18> <http://www.w3.org/2004/02/skos/core#prefLabel> "ydre orientering"^^<@da> .
+<http://iso.org/tc211/term/18> <http://www.w3.org/2004/02/skos/core#definition> "orientering af et legeme beskrevet ved vinklerne mellem akserne i legemets koordinatsystem og akserne i et eksternt koordinatsystem"^^<@da> .
+<http://iso.org/tc211/term/18> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 I stedsbestemmelsestjenester er dette normalt orienteringen af brugerens platform, s\u00E5som et luftfart\u00F8j, en b\u00E5d eller en bil."^^<@da> .
+<http://iso.org/tc211/term/18> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 I stedsbestemmelsestjenester er dette normalt orienteringen af brugerens platform, s\u00E5som et luftfart\u00F8j, en b\u00E5d eller en bil."^^<@da> .
+
+<http://iso.org/tc211/term/20> <http://www.w3.org/2004/02/skos/core#note> "NOTE 1 \u2013 En attribut svarer semantisk til en sammens\u00E6tningsassociation; men form\u00E5l og anvendelse er normalt forskellig fra denne."^^<@da> .
+<http://iso.org/tc211/term/20> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE 1 \u2013 En attribut svarer semantisk til en sammens\u00E6tningsassociation; men form\u00E5l og anvendelse er normalt forskellig fra denne."^^<@da> .
+<http://iso.org/tc211/term/20> <http://www.w3.org/2004/02/skos/core#definition> "egenskab ved en klassifikator, der beskriver en r\u00E6kke v\u00E6rdier, som instanser af klassifikatoren kan indeholde"^^<@da> .
+<http://iso.org/tc211/term/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/20> <http://www.w3.org/2004/02/skos/core#prefLabel> "attribut <UML>"^^<@da> .
+
+<http://iso.org/tc211/term/24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/24> <http://www.w3.org/2004/02/skos/core#definition> "finit, uordnet samling af besl\u00E6gtede elementer (objekter eller v\u00E6rdier), som kan gentages"^^<@da> .
+<http://iso.org/tc211/term/24> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Logisk set er en samling organiseret i  par <element, antal>"^^<@da> .
+<http://iso.org/tc211/term/24> <http://www.w3.org/2004/02/skos/core#prefLabel> "multim\u00E6ngde"^^<@da> .
+<http://iso.org/tc211/term/24> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Logisk set er en samling organiseret i  par <element, antal>"^^<@da> .
+
+<http://iso.org/tc211/term/26> <http://www.w3.org/2004/02/skos/core#definition> "SO geografisk informations-standard eller anden informationsteknologisk standard, der er udgivet som en kilde, hvorfra der kan opbygges en profil"^^<@da> .
+<http://iso.org/tc211/term/26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/26> <http://www.w3.org/2004/02/skos/core#prefLabel> "basisstandard"^^<@da> .
+
+<http://iso.org/tc211/term/27> <http://www.w3.org/2004/02/skos/core#definition> "indledende egnethedstest, der har til form\u00E5l at identificere tydelige tilf\u00E6lde af afvigelse"^^<@da> .
+<http://iso.org/tc211/term/27> <http://www.w3.org/2004/02/skos/core#prefLabel> "basistest"^^<@da> .
+<http://iso.org/tc211/term/27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/28> <http://www.w3.org/2004/02/skos/core#prefLabel> "opf\u00F8rsel <UML>"^^<@da> .
+<http://iso.org/tc211/term/28> <http://www.w3.org/2004/02/skos/core#definition> "iagttagelige virkninger af en handling eller h\u00E6ndelse, herunder dens resultater"^^<@da> .
+<http://iso.org/tc211/term/28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/29> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Afgr\u00E6nsning anvendes almindeligvis inden for geometrien, hvor m\u00E6ngden er en samling af punkter eller en samling af objekter, der repr\u00E6senterer disse punkter. P\u00E5 andre omr\u00E5der anvendes termen metaforisk til at beskrive overgangen mellem en entitet og resten af dens universe of discourse"^^<@da> .
+<http://iso.org/tc211/term/29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/29> <http://www.w3.org/2004/02/skos/core#prefLabel> "afgr\u00E6nsning"^^<@da> .
+<http://iso.org/tc211/term/29> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Afgr\u00E6nsning anvendes almindeligvis inden for geometrien, hvor m\u00E6ngden er en samling af punkter eller en samling af objekter, der repr\u00E6senterer disse punkter. P\u00E5 andre omr\u00E5der anvendes termen metaforisk til at beskrive overgangen mellem en entitet og resten af dens universe of discourse"^^<@da> .
+<http://iso.org/tc211/term/29> <http://www.w3.org/2004/02/skos/core#definition> "m\u00E6ngde, som repr\u00E6senterer gr\u00E6nsen af en entitet"^^<@da> .
+
+<http://iso.org/tc211/term/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/30> <http://www.w3.org/2004/02/skos/core#definition> "geometrisk objekt, der indeholder alle de direkte positioner, hvis afstand fra et specificeret geometrisk objekt er mindre end eller lig med en given afstand"^^<@da> .
+<http://iso.org/tc211/term/30> <http://www.w3.org/2004/02/skos/core#prefLabel> "buffer"^^<@da> .
+
+<http://iso.org/tc211/term/32> <http://www.w3.org/2004/02/skos/core#definition> "sekvens af perioder af en af de typer, der anvendes i en kalender, regnet fra en n\u00E6rmere angivet h\u00E6ndelse"^^<@da> .
+<http://iso.org/tc211/term/32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/32> <http://www.w3.org/2004/02/skos/core#prefLabel> "kalenderinddeling"^^<@da> .
+
+<http://iso.org/tc211/term/31> <http://www.w3.org/2004/02/skos/core#prefLabel> "kalender"^^<@da> .
+<http://iso.org/tc211/term/31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/31> <http://www.w3.org/2004/02/skos/core#definition> "diskret tidsm\u00E6ssigt referencesystem, der danner grundlag for at definere tidsm\u00E6ssig position med en n\u00F8jagtighed p\u00E5 1 d\u00F8gn"^^<@da> .
+
+<http://iso.org/tc211/term/34> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Navigation er den proces, der anvendes til at finde det ruteforslag, der optimerer den valgte omkostningsfunktion."^^<@da> .
+<http://iso.org/tc211/term/34> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Navigation er den proces, der anvendes til at finde det ruteforslag, der optimerer den valgte omkostningsfunktion."^^<@da> .
+<http://iso.org/tc211/term/34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/34> <http://www.w3.org/2004/02/skos/core#prefLabel> "ruteforslag"^^<@da> .
+<http://iso.org/tc211/term/34> <http://www.w3.org/2004/02/skos/core#definition> "enhver rute, der opfylder alle betingelser i ruteforesp\u00F8rgslen, dog evt. med undtagelse af optimering af omkostningsfunktionen"^^<@da> .
+
+<http://iso.org/tc211/term/35> <http://www.w3.org/2004/02/skos/core#definition> "test, der er udviklet med henblik p\u00E5 at afg\u00F8re, om en IUT (Implementation Under Test) opfylder kravene til en bestemt egenskab i en international standard som beskrevet i testform\u00E5let"^^<@da> .
+<http://iso.org/tc211/term/35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/35> <http://www.w3.org/2004/02/skos/core#prefLabel> "egnethedstest"^^<@da> .
+
+<http://iso.org/tc211/term/36> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Kontrast: multiplicitet."^^<@da> .
+<http://iso.org/tc211/term/36> <http://www.w3.org/2004/02/skos/core#prefLabel> "kardinalitet <UML>"^^<@da> .
+<http://iso.org/tc211/term/36> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Kontrast: multiplicitet."^^<@da> .
+<http://iso.org/tc211/term/36> <http://www.w3.org/2004/02/skos/core#definition> "antal elementer i en m\u00E6ngde"^^<@da> .
+<http://iso.org/tc211/term/36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/37> <http://www.w3.org/2004/02/skos/core#prefLabel> "kartesisk koordinatsystem"^^<@da> .
+<http://iso.org/tc211/term/37> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 n er 1, 2 eller 3 i denne internationale standard."^^<@da> .
+<http://iso.org/tc211/term/37> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 n er 1, 2 eller 3 i denne internationale standard."^^<@da> .
+<http://iso.org/tc211/term/37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/37> <http://www.w3.org/2004/02/skos/core#definition> "koordinatsystem, der angiver punkters position i forhold til n akser, som er vinkelret p\u00E5 hinanden"^^<@da> .
+
+<http://iso.org/tc211/term/39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/39> <http://www.w3.org/2004/02/skos/core#prefLabel> "karakter; tegn"^^<@da> .
+<http://iso.org/tc211/term/39> <http://www.w3.org/2004/02/skos/core#definition> "et af en m\u00E6ngde elementer, som anvendes til angivelse, organisering eller styring af data"^^<@da> .
+
+<http://iso.org/tc211/term/41> <http://www.w3.org/2004/02/skos/core#prefLabel> "cirkul\u00E6r sekvens"^^<@da> .
+<http://iso.org/tc211/term/41> <http://www.w3.org/2004/02/skos/core#definition> "sekvens, der ikke har nogen logisk begyndelse og derfor er \u00E6kvivalent med enhver cirkul\u00E6r forskydning af sig selv; derfor anses det sidste element i en sekvens at st\u00E5 foran det f\u00F8rste element i sekvensen"^^<@da> .
+<http://iso.org/tc211/term/41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/506> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 En ikke-v\u00E6sentlig \u00E6ndring \u00E6ndrer ikke elementets semantik eller tekniske betydning.  Tydeligg\u00F8relse resulterer ikke i en \u00E6ndring af det registrerede elements status."^^<@da> .
+<http://iso.org/tc211/term/506> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 En ikke-v\u00E6sentlig \u00E6ndring \u00E6ndrer ikke elementets semantik eller tekniske betydning.  Tydeligg\u00F8relse resulterer ikke i en \u00E6ndring af det registrerede elements status."^^<@da> .
+<http://iso.org/tc211/term/506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/506> <http://www.w3.org/2004/02/skos/core#definition> "ikke-v\u00E6sentlig \u00E6ndring af et registreret element"^^<@da> .
+<http://iso.org/tc211/term/506> <http://www.w3.org/2004/02/skos/core#prefLabel> "tydeligg\u00F8relse"^^<@da> .
+
+<http://iso.org/tc211/term/43> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 En klasse kan benytte et s\u00E6t af gr\u00E6nseflader til at specificere samlinger af operationer, den stiller til r\u00E5dighed for sine omgivelser. Se: gr\u00E6nseflade."^^<@da> .
+<http://iso.org/tc211/term/43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/43> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 En klasse kan benytte et s\u00E6t af gr\u00E6nseflader til at specificere samlinger af operationer, den stiller til r\u00E5dighed for sine omgivelser. Se: gr\u00E6nseflade."^^<@da> .
+<http://iso.org/tc211/term/43> <http://www.w3.org/2004/02/skos/core#definition> "beskrivelse af en m\u00E6ngde af objekter med samme attributter, operationer, metoder, relationer og semantik"^^<@da> .
+<http://iso.org/tc211/term/43> <http://www.w3.org/2004/02/skos/core#prefLabel> "klasse <UML>"^^<@da> .
+
+<http://iso.org/tc211/term/44> <http://www.w3.org/2004/02/skos/core#prefLabel> "klassifikator <UML>"^^<@da> .
+<http://iso.org/tc211/term/44> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Klassifikatorer omfatter gr\u00E6nseflader, klasser, datatyper og komponenter."^^<@da> .
+<http://iso.org/tc211/term/44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/44> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Klassifikatorer omfatter gr\u00E6nseflader, klasser, datatyper og komponenter."^^<@da> .
+<http://iso.org/tc211/term/44> <http://www.w3.org/2004/02/skos/core#definition> "mekanisme, der beskriver adf\u00E6rdsm\u00E6ssige og strukturelle tr\u00E6k"^^<@da> .
+
+<http://iso.org/tc211/term/45> <http://www.w3.org/2004/02/skos/core#definition> "softewarekomponent, der kan aktivere en operation fra en server"^^<@da> .
+<http://iso.org/tc211/term/45> <http://www.w3.org/2004/02/skos/core#prefLabel> "klient"^^<@da> .
+<http://iso.org/tc211/term/45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/46> <http://www.w3.org/2004/02/skos/core#definition> "foreningsm\u00E6ngden af indholdet af og afgr\u00E6nsningen af et topologisk eller geometrisk objekt"^^<@da> .
+<http://iso.org/tc211/term/46> <http://www.w3.org/2004/02/skos/core#prefLabel> "lukket enhed"^^<@da> .
+
+<http://iso.org/tc211/term/48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/48> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Hvis en knude st\u00F8der op til gr\u00E6nsen af en kant, har kanten og knuden en f\u00E6llesgr\u00E6nse. Enhver orienteringsparameter, der er forbundet med en af disse relationer, vil ogs\u00E5 blive forbundet med den anden. Hvis knuden er kantens slutknude (defineret som enden af den positive retningsbestemte kant), s\u00E5 vil knudens positive orientering (defineret som den positive retningsbestemte knude) have kanten p\u00E5 deres f\u00E6llesgr\u00E6nse, se ISO 19107, figur 35."^^<@da> .
+<http://iso.org/tc211/term/48> <http://www.w3.org/2004/02/skos/core#prefLabel> "f\u00E6llesgr\u00E6nse"^^<@da> .
+<http://iso.org/tc211/term/48> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Hvis en knude st\u00F8der op til gr\u00E6nsen af en kant, har kanten og knuden en f\u00E6llesgr\u00E6nse. Enhver orienteringsparameter, der er forbundet med en af disse relationer, vil ogs\u00E5 blive forbundet med den anden. Hvis knuden er kantens slutknude (defineret som enden af den positive retningsbestemte kant), s\u00E5 vil knudens positive orientering (defineret som den positive retningsbestemte knude) have kanten p\u00E5 deres f\u00E6llesgr\u00E6nse, se ISO 19107, figur 35."^^<@da> .
+<http://iso.org/tc211/term/48> <http://www.w3.org/2004/02/skos/core#definition> "en m\u00E6ngde af topologiske grundformer af h\u00F8jere topologisk dimension, som er forbundet med et bestemt topologisk objekt, s\u00E5ledes at dette topologiske objekt er i hver af deres afgr\u00E6nsning"^^<@da> .
+
+<http://iso.org/tc211/term/49> <http://www.w3.org/2004/02/skos/core#prefLabel> "kode"^^<@da> .
+<http://iso.org/tc211/term/49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/49> <http://www.w3.org/2004/02/skos/core#definition> "angivelse af et label ud fra en specificeret skema"^^<@da> .
+
+<http://iso.org/tc211/term/724> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/724> <http://www.w3.org/2004/02/skos/core#prefLabel> "komponent <UML>"^^<@da> .
+<http://iso.org/tc211/term/724> <http://www.w3.org/2004/02/skos/core#definition> "modul\u00E6r, umiddelbart brugbar og udskiftelig del af et system, der sammenfatter implementering og som passer til  og realiserer et s\u00E6t gr\u00E6nseflader"^^<@da> .
+<http://iso.org/tc211/term/724> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 En komponent repr\u00E6senterer en fysisk del af implementeringen af et system, inkl. softwarekode (kilde, bin\u00E6r eller eksekverbar) eller tilsvarende s\u00E5som scripts eller kommandofiler."^^<@da> .
+<http://iso.org/tc211/term/724> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 En komponent repr\u00E6senterer en fysisk del af implementeringen af et system, inkl. softwarekode (kilde, bin\u00E6r eller eksekverbar) eller tilsvarende s\u00E5som scripts eller kommandofiler."^^<@da> .
+
+<http://iso.org/tc211/term/55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/55> <http://www.w3.org/2004/02/skos/core#prefLabel> "sammensat kurve"^^<@da> .
+<http://iso.org/tc211/term/55> <http://www.w3.org/2004/02/skos/core#definition> "sekvens af kurver dannet s\u00E5ledes, at hver kurve (undtagen den f\u00F8rste) starter ved slutpunktet af den foreg\u00E5ende kurve i sekvensen."^^<@da> .
+<http://iso.org/tc211/term/55> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 En sammensat kurve er i realiteten et antal direkte positioner og har de samme egenskaber som en kurve."^^<@da> .
+<http://iso.org/tc211/term/55> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 En sammensat kurve er i realiteten et antal direkte positioner og har de samme egenskaber som en kurve."^^<@da> .
+
+<http://iso.org/tc211/term/56> <http://www.w3.org/2004/02/skos/core#prefLabel> "sammensat legeme"^^<@da> .
+<http://iso.org/tc211/term/56> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Et sammensat legeme er i realiteten et antal direkte positioner og har de samme egenskaber som et legeme."^^<@da> .
+<http://iso.org/tc211/term/56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/56> <http://www.w3.org/2004/02/skos/core#definition> "samlet s\u00E6t af legemer, der er forbundet med hinanden langs f\u00E6lles gr\u00E6nseflader"^^<@da> .
+<http://iso.org/tc211/term/56> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Et sammensat legeme er i realiteten et antal direkte positioner og har de samme egenskaber som et legeme."^^<@da> .
+
+<http://iso.org/tc211/term/57> <http://www.w3.org/2004/02/skos/core#prefLabel> "sammensat flade"^^<@da> .
+<http://iso.org/tc211/term/57> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 En sammensat flade er i realiteten et antal direkte positioner og har de samme egenskaber som en flade."^^<@da> .
+<http://iso.org/tc211/term/57> <http://www.w3.org/2004/02/skos/core#definition> "samlet s\u00E6t af flader, der er forbundet med hinanden langs f\u00E6lles gr\u00E6nsekurv"^^<@da> .
+<http://iso.org/tc211/term/57> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 En sammensat flade er i realiteten et antal direkte positioner og har de samme egenskaber som en flade."^^<@da> .
+<http://iso.org/tc211/term/57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/725> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/725> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Dele med ikke-fast multiplicitet kan skabes efter selve helheden, men n\u00E5r de er skabt, lever og d\u00F8r de med den (dvs. de har samme levetid). S\u00E5danne dele kan ogs\u00E5 fjernes eksplicit, inden helheden d\u00F8r. Sammens\u00E6tning kan v\u00E6re rekursiv. Synonym: sammensat aggregering."^^<@da> .
+<http://iso.org/tc211/term/725> <http://www.w3.org/2004/02/skos/core#definition> "form for aggregering, der kr\u00E6ver, at en del indg\u00E5r i h\u00F8jst \u00E9n helhed ad gangen, og at helheden er ansvarlig for at delene skabes og/eller forsvinder. Med andre ord lever og d\u00F8r delene sammen med helheden."^^<@da> .
+<http://iso.org/tc211/term/725> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Dele med ikke-fast multiplicitet kan skabes efter selve helheden, men n\u00E5r de er skabt, lever og d\u00F8r de med den (dvs. de har samme levetid). S\u00E5danne dele kan ogs\u00E5 fjernes eksplicit, inden helheden d\u00F8r. Sammens\u00E6tning kan v\u00E6re rekursiv. Synonym: sammensat aggregering."^^<@da> .
+<http://iso.org/tc211/term/725> <http://www.w3.org/2004/02/skos/core#prefLabel> "sammens\u00E6tning <UML>"^^<@da> .
+
+<http://iso.org/tc211/term/59> <http://www.w3.org/2004/02/skos/core#definition> "koordinatsystem, der anvender to andre uafh\u00E6ngige koordinatsystemer til at beskrive en position"^^<@da> .
+<http://iso.org/tc211/term/59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/59> <http://www.w3.org/2004/02/skos/core#prefLabel> "sammensat koordinatsystem"^^<@da> .
+
+<http://iso.org/tc211/term/61> <http://www.w3.org/2004/02/skos/core#definition> "manipulationer og beregninger af geometriske repr\u00E6sentationer med det form\u00E5l at udf\u00F8re geometriske operationer"^^<@da> .
+<http://iso.org/tc211/term/61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/61> <http://www.w3.org/2004/02/skos/core#prefLabel> "algoritmisk geometri"^^<@da> .
+
+<http://iso.org/tc211/term/62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/62> <http://www.w3.org/2004/02/skos/core#prefLabel> "algoritmisk topologi"^^<@da> .
+<http://iso.org/tc211/term/62> <http://www.w3.org/2004/02/skos/core#definition> "topologiske begreber, strukturer og algebra, som hj\u00E6lper, forst\u00E6rker eller definerer operationer p\u00E5 topologiske objekter, og som s\u00E6dvanligvis anvendes i algoritmisk geometri"^^<@da> .
+
+<http://iso.org/tc211/term/63> <http://www.w3.org/2004/02/skos/core#prefLabel> "beregningsm\u00E6ssig synsvinkel"^^<@da> .
+<http://iso.org/tc211/term/63> <http://www.w3.org/2004/02/skos/core#definition> "synsvinkel p\u00E5 et system og dets omgivelser, som muligg\u00F8r distribution gennem funktionel opdeling af systemet i objekter, der interagerer ved gr\u00E6nseflader (RM-ODP)"^^<@da> .
+<http://iso.org/tc211/term/63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/64> <http://www.w3.org/2004/02/skos/core#prefLabel> "begreb"^^<@da> .
+<http://iso.org/tc211/term/64> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Begreber er ikke n\u00F8dvendigvis bundet til bestemte sprog, men de p\u00E5virkes af den sociale eller kulturelle baggrund, der ofte f\u00F8rer til forskellige kategoriseringer."^^<@da> .
+<http://iso.org/tc211/term/64> <http://www.w3.org/2004/02/skos/core#definition> "enhed af viden skabt ved en unik kombination af karakteristika"^^<@da> .
+<http://iso.org/tc211/term/64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/64> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Begreber er ikke n\u00F8dvendigvis bundet til bestemte sprog, men de p\u00E5virkes af den sociale eller kulturelle baggrund, der ofte f\u00F8rer til forskellige kategoriseringer."^^<@da> .
+
+<http://iso.org/tc211/term/65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/65> <http://www.w3.org/2004/02/skos/core#prefLabel> "begreber, harmonisering af"^^<@da> .
+<http://iso.org/tc211/term/65> <http://www.w3.org/2004/02/skos/core#definition> "det at reducere eller eliminere mindre forskelle mellem to eller flere begreber, der allerede er t\u00E6t forbundet med hinanden"^^<@da> .
+
+<http://iso.org/tc211/term/66> <http://www.w3.org/2004/02/skos/core#definition> "s\u00E6t af begreber, der er struktureret efter relationerne imellem dem"^^<@da> .
+<http://iso.org/tc211/term/66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/66> <http://www.w3.org/2004/02/skos/core#prefLabel> "begrebssystem"^^<@da> .
+
+<http://iso.org/tc211/term/67> <http://www.w3.org/2004/02/skos/core#definition> "s\u00E6t af modelleringsbegreber, der anvendes til at beskrive en begrebsmodel"^^<@da> .
+<http://iso.org/tc211/term/67> <http://www.w3.org/2004/02/skos/core#note> "NOTE - En konceptuel formalisme kan udtrykkes i flere konceptuelle skemasprog."^^<@da> .
+<http://iso.org/tc211/term/67> <http://www.w3.org/2004/02/skos/core#prefLabel> "konceptuel formalisme"^^<@da> .
+<http://iso.org/tc211/term/67> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE - En konceptuel formalisme kan udtrykkes i flere konceptuelle skemasprog."^^<@da> .
+<http://iso.org/tc211/term/67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/68> <http://www.w3.org/2004/02/skos/core#definition> "model, der definerer begreber i et universe of discourse"^^<@da> .
+<http://iso.org/tc211/term/68> <http://www.w3.org/2004/02/skos/core#prefLabel> "konceptuel model"^^<@da> .
+
+<http://iso.org/tc211/term/69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/69> <http://www.w3.org/2004/02/skos/core#prefLabel> "konceptuelt skema"^^<@da> .
+<http://iso.org/tc211/term/69> <http://www.w3.org/2004/02/skos/core#definition> "formel beskrivelse af en konceptuel model"^^<@da> .
+
+<http://iso.org/tc211/term/70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/70> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE - Et konceptuelt modelleringssprog kan enten best\u00E5 af ord eller v\u00E6re grafisk. Flere forskellige konceptuelle modelleringssprog kan v\u00E6re baseret p\u00E5 den samme konceptuelle formalisme."^^<@da> .
+<http://iso.org/tc211/term/70> <http://www.w3.org/2004/02/skos/core#definition> "formelt sprog baseret p\u00E5 en konceptuel formalisme til repr\u00E6sentation af konceptuelle skemaer"^^<@da> .
+<http://iso.org/tc211/term/70> <http://www.w3.org/2004/02/skos/core#note> "NOTE - Et konceptuelt modelleringssprog kan enten best\u00E5 af ord eller v\u00E6re grafisk. Flere forskellige konceptuelle modelleringssprog kan v\u00E6re baseret p\u00E5 den samme konceptuelle formalisme."^^<@da> .
+<http://iso.org/tc211/term/70> <http://www.w3.org/2004/02/skos/core#prefLabel> "konceptuelt modelleringssprog"^^<@da> .
+
+<http://iso.org/tc211/term/71> <http://www.w3.org/2004/02/skos/core#prefLabel> "overensstemmelse"^^<@da> .
+<http://iso.org/tc211/term/71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/71> <http://www.w3.org/2004/02/skos/core#definition> "opfyldelse af specificerede krav"^^<@da> .
+
+<http://iso.org/tc211/term/72> <http://www.w3.org/2004/02/skos/core#prefLabel> "overensstemmelse, proces til vurdering af"^^<@da> .
+<http://iso.org/tc211/term/72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/72> <http://www.w3.org/2004/02/skos/core#definition> "proces til vurdering af overensstemmelsen af en implementering i forhold til en international standard"^^<@da> .
+
+<http://iso.org/tc211/term/73> <http://www.w3.org/2004/02/skos/core#definition> "klausul, der definerer, hvad der er n\u00F8dvendigt for at opfylde kravene i den internationale standard"^^<@da> .
+<http://iso.org/tc211/term/73> <http://www.w3.org/2004/02/skos/core#prefLabel> "overensstemmelsesklausul"^^<@da> .
+<http://iso.org/tc211/term/73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/74> <http://www.w3.org/2004/02/skos/core#prefLabel> "overensstemmelse, kvalitetsniveau af"^^<@da> .
+<http://iso.org/tc211/term/74> <http://www.w3.org/2004/02/skos/core#definition> "t\u00E6rskelv\u00E6rdi eller s\u00E6t af t\u00E6rskelv\u00E6rdier for resultater af datakvalitet, som anvendes til at bestemme, hvor godt et datas\u00E6t opfylder kriterierne i produktspecifikationen eller brugerkravene"^^<@da> .
+<http://iso.org/tc211/term/74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/75> <http://www.w3.org/2004/02/skos/core#prefLabel> "overensstemmelse, testrapport"^^<@da> .
+<http://iso.org/tc211/term/75> <http://www.w3.org/2004/02/skos/core#definition> "opsummering af overensstemmelsen med den internationale standard samt detaljer om testen, der underst\u00F8tter den givne samlede opsummering"^^<@da> .
+
+<http://iso.org/tc211/term/76> <http://www.w3.org/2004/02/skos/core#definition> "test af et produkt for at afg\u00F8re, i hvor h\u00F8j grad produktet opfylder kravene til implementeringen"^^<@da> .
+<http://iso.org/tc211/term/76> <http://www.w3.org/2004/02/skos/core#prefLabel> "overensstemmelse, test af"^^<@da> .
+<http://iso.org/tc211/term/76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/77> <http://www.w3.org/2004/02/skos/core#definition> "implementering, der opfylder kravene"^^<@da> .
+<http://iso.org/tc211/term/77> <http://www.w3.org/2004/02/skos/core#prefLabel> "overensstemmende implementering"^^<@da> .
+
+<http://iso.org/tc211/term/78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/78> <http://www.w3.org/2004/02/skos/core#definition> "egenskab ved et geometrisk objekt, som angiver, at enhver af to direkte positioner p\u00E5 objektet kan placeres p\u00E5 en kurve, der forbliver helt inde i objektet"^^<@da> .
+<http://iso.org/tc211/term/78> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE - Et topologisk objekt er forbundet hvis og kun hvis alle dets geometriske realiseringer er forbundet. Dette er ikke medtaget som en definition, da det f\u00F8lger af en topologisk l\u00E6res\u00E6tning."^^<@da> .
+<http://iso.org/tc211/term/78> <http://www.w3.org/2004/02/skos/core#prefLabel> "forbundet"^^<@da> .
+<http://iso.org/tc211/term/78> <http://www.w3.org/2004/02/skos/core#note> "NOTE - Et topologisk objekt er forbundet hvis og kun hvis alle dets geometriske realiseringer er forbundet. Dette er ikke medtaget som en definition, da det f\u00F8lger af en topologisk l\u00E6res\u00E6tning."^^<@da> .
+
+<http://iso.org/tc211/term/79> <http://www.w3.org/2004/02/skos/core#prefLabel> "forbundet knude"^^<@da> .
+<http://iso.org/tc211/term/79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/79> <http://www.w3.org/2004/02/skos/core#definition> "knude, der starter eller slutter en eller flere kanter"^^<@da> .
+
+<http://iso.org/tc211/term/734> <http://www.w3.org/2004/02/skos/core#prefLabel> "restriktion"^^<@da> .
+<http://iso.org/tc211/term/734> <http://www.w3.org/2004/02/skos/core#definition> "begr\u00E6nsning af, hvordan et k\u00F8ret\u00F8j kan f\u00F8lge et link eller et sving, s\u00E5som k\u00F8ret\u00F8jsklassifikation, fysisk eller tidsm\u00E6ssig restriktion"^^<@da> .
+<http://iso.org/tc211/term/734> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/81> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Nogle restriktioner er pr\u00E6definerede i UML, andre kan v\u00E6re brugerdefinerede.  Restriktioner er en af tre udvidelsesmekanismer i UML. Se: tagged v\u00E6rdi, stereotype."^^<@da> .
+<http://iso.org/tc211/term/81> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Nogle restriktioner er pr\u00E6definerede i UML, andre kan v\u00E6re brugerdefinerede.  Restriktioner er en af tre udvidelsesmekanismer i UML. Se: tagged v\u00E6rdi, stereotype."^^<@da> .
+<http://iso.org/tc211/term/81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/81> <http://www.w3.org/2004/02/skos/core#definition> "semantisk betingelse eller begr\u00E6nsning"^^<@da> .
+<http://iso.org/tc211/term/81> <http://www.w3.org/2004/02/skos/core#prefLabel> "restriktion <UML>"^^<@da> .
+
+<http://iso.org/tc211/term/83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/83> <http://www.w3.org/2004/02/skos/core#prefLabel> "coverage,  sammenh\u00E6ngende"^^<@da> .
+<http://iso.org/tc211/term/83> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Sk\u00F8nt en sammenh\u00E6ngende coverages dom\u00E6ne s\u00E6dvanligvis er afgr\u00E6nset ved sin rumlige og/eller tidsm\u00E6ssige udbredelse, kan den underinddeles i et uendeligt antal direkte positioner."^^<@da> .
+<http://iso.org/tc211/term/83> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Sk\u00F8nt en sammenh\u00E6ngende coverages dom\u00E6ne s\u00E6dvanligvis er afgr\u00E6nset ved sin rumlige og/eller tidsm\u00E6ssige udbredelse, kan den underinddeles i et uendeligt antal direkte positioner."^^<@da> .
+<http://iso.org/tc211/term/83> <http://www.w3.org/2004/02/skos/core#definition> "coverage, der giver forskellige v\u00E6rdier for samme featureattribut p\u00E5 forskellige direkte positioner inden for et enkelt spatialt objekt, temporale objekt eller temporalt-spatialt objekt i sit dom\u00E6ne"^^<@da> .
+
+<http://iso.org/tc211/term/84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/84> <http://www.w3.org/2004/02/skos/core#prefLabel> "kontrolorgan"^^<@da> .
+<http://iso.org/tc211/term/84> <http://www.w3.org/2004/02/skos/core#definition> "gruppe af tekniske eksperter, der tr\u00E6ffer beslutninger om indholdet af et register"^^<@da> .
+
+<http://iso.org/tc211/term/85> <http://www.w3.org/2004/02/skos/core#definition> "regel for at konvertere instanser i inputdatastrukturen til instanser i outputdatastrukturen"^^<@da> .
+<http://iso.org/tc211/term/85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/85> <http://www.w3.org/2004/02/skos/core#prefLabel> "konverteringsregel"^^<@da> .
+
+<http://iso.org/tc211/term/86> <http://www.w3.org/2004/02/skos/core#prefLabel> "konvekst hylster"^^<@da> .
+<http://iso.org/tc211/term/86> <http://www.w3.org/2004/02/skos/core#definition> "mindste konvekse m\u00E6ngde, der kan indeholde et givet geometrisk objekt"^^<@da> .
+<http://iso.org/tc211/term/86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/87> <http://www.w3.org/2004/02/skos/core#prefLabel> "konveks m\u00E6ngde"^^<@da> .
+<http://iso.org/tc211/term/87> <http://www.w3.org/2004/02/skos/core#definition> "geometrisk m\u00E6ngde, i hvilket det g\u00E6lder, at uanset hvilke to punkter vi tager i m\u00E6ngden og tager linjestykket mellem disse, er linjestykket fuldt indeholdt i m\u00E6ngden."^^<@da> .
+<http://iso.org/tc211/term/87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/87> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE - Konvekse m\u00E6ngder er \"simpelt forbundne\", dvs. at de ikke har indre huller, og de kan derfor normalt betragtes som v\u00E6rende topologisk isomorfe i forhold til en euklidisk bold af en passende st\u00F8rrelse. Derfor kan overfladen af en kugle anses for at v\u00E6re geod\u00E6tisk konveks."^^<@da> .
+<http://iso.org/tc211/term/87> <http://www.w3.org/2004/02/skos/core#note> "NOTE - Konvekse m\u00E6ngder er \"simpelt forbundne\", dvs. at de ikke har indre huller, og de kan derfor normalt betragtes som v\u00E6rende topologisk isomorfe i forhold til en euklidisk bold af en passende st\u00F8rrelse. Derfor kan overfladen af en kugle anses for at v\u00E6re geod\u00E6tisk konveks."^^<@da> .
+
+<http://iso.org/tc211/term/88> <http://www.w3.org/2004/02/skos/core#definition> "et af en sekvens af n tal, der betegner positionen af et punkt i det n-dimensionale rum"^^<@da> .
+<http://iso.org/tc211/term/88> <http://www.w3.org/2004/02/skos/core#note> "NOTE 2 \u2013 En koordinatoperation udf\u00F8res p\u00E5 koordinater i et kildesystem, der resulterer i koordinater i et m\u00E5lsystem."^^<@da> .
+<http://iso.org/tc211/term/88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/88> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE 1 \u2013 I et koordinatsystem skal tallene bestemmes ved hj\u00E6lp af enheder."^^<@da> .
+<http://iso.org/tc211/term/88> <http://www.w3.org/2004/02/skos/core#note> "NOTE 1 \u2013 I et koordinatsystem skal tallene bestemmes ved hj\u00E6lp af enheder."^^<@da> .
+<http://iso.org/tc211/term/88> <http://www.w3.org/2004/02/skos/core#prefLabel> "koordinat"^^<@da> .
+<http://iso.org/tc211/term/88> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE 2 \u2013 En koordinatoperation udf\u00F8res p\u00E5 koordinater i et kildesystem, der resulterer i koordinater i et m\u00E5lsystem."^^<@da> .
+
+<http://iso.org/tc211/term/89> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Ved en koordinatkonvertering anvendes parametre med konstante v\u00E6rdier."^^<@da> .
+<http://iso.org/tc211/term/89> <http://www.w3.org/2004/02/skos/core#prefLabel> "koordinatkonvertering"^^<@da> .
+<http://iso.org/tc211/term/89> <http://www.w3.org/2004/02/skos/core#definition> "\u00E6ndring af koordinater baseret p\u00E5 en 1 til 1-relation fra et koordinatsystem til et andet baseret p\u00E5 samme datum"^^<@da> .
+<http://iso.org/tc211/term/89> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Ved en koordinatkonvertering anvendes parametre med konstante v\u00E6rdier."^^<@da> .
+<http://iso.org/tc211/term/89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/90> <http://www.w3.org/2004/02/skos/core#prefLabel> "koordinatdimension"^^<@da> .
+<http://iso.org/tc211/term/90> <http://www.w3.org/2004/02/skos/core#definition> "antallet af m\u00E5linger eller akser, der er n\u00F8dvendige for at kunne beskrive en position i et koordinatsystem"^^<@da> .
+<http://iso.org/tc211/term/90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/91> <http://www.w3.org/2004/02/skos/core#prefLabel> "koordinatoperation"^^<@da> .
+<http://iso.org/tc211/term/91> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Supertype af koordinattransformation og koordinatkonvertering."^^<@da> .
+<http://iso.org/tc211/term/91> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Supertype af koordinattransformation og koordinatkonvertering."^^<@da> .
+<http://iso.org/tc211/term/91> <http://www.w3.org/2004/02/skos/core#definition> "\u00E6ndring af koordinater baseret p\u00E5 en 1 til 1-relation fra et koordinatsystem til et andet"^^<@da> .
+<http://iso.org/tc211/term/91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/92> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 For geod\u00E6tiske og vertikale datummer vil koordinatsystemet blive relateret til jorden."^^<@da> .
+<http://iso.org/tc211/term/92> <http://www.w3.org/2004/02/skos/core#prefLabel> "koordinatreferencesystem"^^<@da> .
+<http://iso.org/tc211/term/92> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 For geod\u00E6tiske og vertikale datummer vil koordinatsystemet blive relateret til jorden."^^<@da> .
+<http://iso.org/tc211/term/92> <http://www.w3.org/2004/02/skos/core#definition> "koordinatsystem, der er relateret til et datum i den virkelige verden"^^<@da> .
+
+<http://iso.org/tc211/term/93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/93> <http://www.w3.org/2004/02/skos/core#definition> "s\u00E6t af matematiske regler, der specificerer, hvordan koordinater henf\u00F8res til punkter"^^<@da> .
+<http://iso.org/tc211/term/93> <http://www.w3.org/2004/02/skos/core#prefLabel> "koordinatsystem"^^<@da> .
+
+<http://iso.org/tc211/term/94> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Ved en koordinattransformation anvendes parametre, der er afledt empirisk af en m\u00E6ngde af punkter med kendte koordinater i begge koordinatsystemer."^^<@da> .
+<http://iso.org/tc211/term/94> <http://www.w3.org/2004/02/skos/core#definition> "\u00E6ndring af koordinater fra et koordinatsystem til et andet koordinatsystem baseret p\u00E5 et andet datum i en 1 til 1-relation"^^<@da> .
+<http://iso.org/tc211/term/94> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Ved en koordinattransformation anvendes parametre, der er afledt empirisk af en m\u00E6ngde af punkter med kendte koordinater i begge koordinatsystemer."^^<@da> .
+<http://iso.org/tc211/term/94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/94> <http://www.w3.org/2004/02/skos/core#prefLabel> "koordinattransformation"^^<@da> .
+
+<http://iso.org/tc211/term/96> <http://www.w3.org/2004/02/skos/core#prefLabel> "UTC, Coordinated Universal Time"^^<@da> .
+<http://iso.org/tc211/term/96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/96> <http://www.w3.org/2004/02/skos/core#definition> "tidsskala, der varetages af Bureau International des Poids et Mesures (International Bureau of Weights and Measures) og International Earth Rotation Service (IERS), og som danner grundlaget for en koordineret udbredelse af standardfrekvenser og standardtid"^^<@da> .
+
+<http://iso.org/tc211/term/97> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Den normale mekanisme er at tilskrive hver del af en rute  en omkostning og at definere de totale ruteomkostninger som summen af delenes omkostninger. Dette er n\u00F8dvendigt for at de mest almindelige navigationsalgoritmer kan fungere. Omkostningsfunktionernes enheder er ikke udelukkende begr\u00E6nset til penge og v\u00E6rdier, men omfatter ogs\u00E5 s\u00E5danne m\u00E5l som tid, afstand og andre forhold. Det eneste krav er, at funktionen er additiv og i det mindste ikke-negativ. Der kan sl\u00E6kkes p\u00E5 dette sidste kriterium, s\u00E5 l\u00E6nge ingen omkostning p\u00E5 nul eller mindre forbindes med et loop i netv\u00E6rket, da dette vil betyde at der ikke kan v\u00E6re en \"minimal-omkostnings-rute\"."^^<@da> .
+<http://iso.org/tc211/term/97> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Den normale mekanisme er at tilskrive hver del af en rute  en omkostning og at definere de totale ruteomkostninger som summen af delenes omkostninger. Dette er n\u00F8dvendigt for at de mest almindelige navigationsalgoritmer kan fungere. Omkostningsfunktionernes enheder er ikke udelukkende begr\u00E6nset til penge og v\u00E6rdier, men omfatter ogs\u00E5 s\u00E5danne m\u00E5l som tid, afstand og andre forhold. Det eneste krav er, at funktionen er additiv og i det mindste ikke-negativ. Der kan sl\u00E6kkes p\u00E5 dette sidste kriterium, s\u00E5 l\u00E6nge ingen omkostning p\u00E5 nul eller mindre forbindes med et loop i netv\u00E6rket, da dette vil betyde at der ikke kan v\u00E6re en \"minimal-omkostnings-rute\"."^^<@da> .
+<http://iso.org/tc211/term/97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/97> <http://www.w3.org/2004/02/skos/core#prefLabel> "omkostningsfunktion"^^<@da> .
+<http://iso.org/tc211/term/97> <http://www.w3.org/2004/02/skos/core#definition> "funktion, der forbinder et m\u00E5l (omkostning) med en rute"^^<@da> .
+
+<http://iso.org/tc211/term/99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/99> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE - Med andre ord er en coverage en feature, som har flere mulige v\u00E6rdier for hver attributtype, hvor hver direkte position i den geometriske repr\u00E6sentation af featuren har \u00E9n v\u00E6rdi for hver attributtype."^^<@da> .
+<http://iso.org/tc211/term/99> <http://www.w3.org/2004/02/skos/core#definition> "feature, der virker som en funktion, som returnerer v\u00E6rdier fra sin v\u00E6rdim\u00E6ngde, for enhver direkte position inden for dens rumlige, temporale eller rumlig-temporale dom\u00E6ne"^^<@da> .
+<http://iso.org/tc211/term/99> <http://www.w3.org/2004/02/skos/core#prefLabel> "coverage"^^<@da> .
+<http://iso.org/tc211/term/99> <http://www.w3.org/2004/02/skos/core#note> "NOTE - Med andre ord er en coverage en feature, som har flere mulige v\u00E6rdier for hver attributtype, hvor hver direkte position i den geometriske repr\u00E6sentation af featuren har \u00E9n v\u00E6rdi for hver attributtype."^^<@da> .
+
+<http://iso.org/tc211/term/100> <http://www.w3.org/2004/02/skos/core#definition> "konfiguration af dom\u00E6net for en coverage beskrevet i form af koordinater"^^<@da> .
+<http://iso.org/tc211/term/100> <http://www.w3.org/2004/02/skos/core#prefLabel> "coverage-geometri"^^<@da> .
+<http://iso.org/tc211/term/100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/101> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE - Afgr\u00E6nsningen af en kurve er m\u00E6ngden af punkter i hver ende af kurven. Hvis en kurve er en ring, er de to endepunkter identiske, og kurven (hvis den er topologisk lukket) opfattes som ikke havende nogen afgr\u00E6nsning. Det f\u00F8rste punkt p\u00E5 kurven kaldes for startpunktet og det sidste for slutpunktet. Kurvens konnektivitet er sikret ved princippet om \"et sammenh\u00E6ngende billede af en linje\". En topologisk l\u00E6res\u00E6tning siger, at et kontinuert billede af en forbunden m\u00E6ngde ogs\u00E5 er forbundet i sig selv."^^<@da> .
+<http://iso.org/tc211/term/101> <http://www.w3.org/2004/02/skos/core#definition> "1-dimensional geometrisk grundform, der repr\u00E6senterer et kontinuert billede af en linje"^^<@da> .
+<http://iso.org/tc211/term/101> <http://www.w3.org/2004/02/skos/core#note> "NOTE - Afgr\u00E6nsningen af en kurve er m\u00E6ngden af punkter i hver ende af kurven. Hvis en kurve er en ring, er de to endepunkter identiske, og kurven (hvis den er topologisk lukket) opfattes som ikke havende nogen afgr\u00E6nsning. Det f\u00F8rste punkt p\u00E5 kurven kaldes for startpunktet og det sidste for slutpunktet. Kurvens konnektivitet er sikret ved princippet om \"et sammenh\u00E6ngende billede af en linje\". En topologisk l\u00E6res\u00E6tning siger, at et kontinuert billede af en forbunden m\u00E6ngde ogs\u00E5 er forbundet i sig selv."^^<@da> .
+<http://iso.org/tc211/term/101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/101> <http://www.w3.org/2004/02/skos/core#prefLabel> "kurve"^^<@da> .
+
+<http://iso.org/tc211/term/102> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Den geometriske m\u00E6ngde, der repr\u00E6senteres af et enkelt kurvesegment, svarer til en kurve."^^<@da> .
+<http://iso.org/tc211/term/102> <http://www.w3.org/2004/02/skos/core#prefLabel> "kurvesegment"^^<@da> .
+<http://iso.org/tc211/term/102> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Den geometriske m\u00E6ngde, der repr\u00E6senteres af et enkelt kurvesegment, svarer til en kurve."^^<@da> .
+<http://iso.org/tc211/term/102> <http://www.w3.org/2004/02/skos/core#definition> "1-dimensionalt geometrisk objekt, der anvendes til at repr\u00E6sentere en kontinuert komponent af en kurve ved hj\u00E6lp af homogene interpolations- og definitionsmetoder"^^<@da> .
+<http://iso.org/tc211/term/102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/103> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Egenskaben lukket anvendes til at beskrive gr\u00E6nsekomponenter (se rand). N\u00E5r et objekt er lukket, har det ingen gr\u00E6nse, da det afslutter sig selv, men det er afgr\u00E6nset (dvs. det har ikke uendelig udbredelse).  En cirkel eller kugle har eksempelvis ingen gr\u00E6nse, men er afgr\u00E6nset."^^<@da> .
+<http://iso.org/tc211/term/103> <http://www.w3.org/2004/02/skos/core#prefLabel> "lukket<geometri>"^^<@da> .
+<http://iso.org/tc211/term/103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/103> <http://www.w3.org/2004/02/skos/core#definition> "om rumligt objekt uden en gr\u00E6nse"^^<@da> .
+<http://iso.org/tc211/term/103> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Egenskaben lukket anvendes til at beskrive gr\u00E6nsekomponenter (se rand). N\u00E5r et objekt er lukket, har det ingen gr\u00E6nse, da det afslutter sig selv, men det er afgr\u00E6nset (dvs. det har ikke uendelig udbredelse).  En cirkel eller kugle har eksempelvis ingen gr\u00E6nse, men er afgr\u00E6nset."^^<@da> .
+
+<http://iso.org/tc211/term/104> <http://www.w3.org/2004/02/skos/core#prefLabel> "data"^^<@da> .
+<http://iso.org/tc211/term/104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/104> <http://www.w3.org/2004/02/skos/core#definition> "genfortolkelig repr\u00E6sentation af informationer p\u00E5 en formaliseret m\u00E5de, s\u00E5 de kan kommunikeres, fortolkes eller bearbejdes"^^<@da> .
+
+<http://iso.org/tc211/term/105> <http://www.w3.org/2004/02/skos/core#definition> "dataenhed, som i en bestemt kontekst anses for at v\u00E6re udelelig"^^<@da> .
+<http://iso.org/tc211/term/105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/105> <http://www.w3.org/2004/02/skos/core#prefLabel> "dataelement"^^<@da> .
+
+<http://iso.org/tc211/term/107> <http://www.w3.org/2004/02/skos/core#prefLabel> "dataudveksling"^^<@da> .
+<http://iso.org/tc211/term/107> <http://www.w3.org/2004/02/skos/core#definition> "levering, modtagelse og fortolkning af data"^^<@da> .
+<http://iso.org/tc211/term/107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/108> <http://www.w3.org/2004/02/skos/core#prefLabel> "dataniveau"^^<@da> .
+<http://iso.org/tc211/term/108> <http://www.w3.org/2004/02/skos/core#definition> "niveau med data, der beskriver specifikke instanser"^^<@da> .
+<http://iso.org/tc211/term/108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/112> <http://www.w3.org/2004/02/skos/core#definition> "dato eller periode hvor et m\u00E5l for datakvalitet foretages"^^<@da> .
+<http://iso.org/tc211/term/112> <http://www.w3.org/2004/02/skos/core#prefLabel> "datakvalitet, dato for"^^<@da> .
+
+<http://iso.org/tc211/term/113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/113> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Anvendeligheden af et datakvalitetselement i et datas\u00E6t afh\u00E6nger b\u00E5de af datas\u00E6ttets indhold og af dets produktspecifikation; det betyder, at alle dataelementer ikke n\u00F8dvendigvis kan anvendes i alle datas\u00E6t."^^<@da> .
+<http://iso.org/tc211/term/113> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Anvendeligheden af et datakvalitetselement i et datas\u00E6t afh\u00E6nger b\u00E5de af datas\u00E6ttets indhold og af dets produktspecifikation; det betyder, at alle dataelementer ikke n\u00F8dvendigvis kan anvendes i alle datas\u00E6t."^^<@da> .
+<http://iso.org/tc211/term/113> <http://www.w3.org/2004/02/skos/core#prefLabel> "datakvalitetselement"^^<@da> .
+<http://iso.org/tc211/term/113> <http://www.w3.org/2004/02/skos/core#definition> "kvantitativ komponent, der dokumenterer kvaliteten af et datas\u00E6t"^^<@da> .
+
+<http://iso.org/tc211/term/114> <http://www.w3.org/2004/02/skos/core#definition> "operation(er), som indg\u00E5r i anvendelsen af metoder til kvalitetsvurdering, og benyttes til at rapportere resultaterne heraf"^^<@da> .
+<http://iso.org/tc211/term/114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/114> <http://www.w3.org/2004/02/skos/core#prefLabel> "datakvalitet, procedure til vurdering af"^^<@da> .
+
+<http://iso.org/tc211/term/115> <http://www.w3.org/2004/02/skos/core#prefLabel> "datakvalitet, m\u00E5l for"^^<@da> .
+<http://iso.org/tc211/term/115> <http://www.w3.org/2004/02/skos/core#definition> "evaluering af et datakvalitetsdelelement"^^<@da> .
+<http://iso.org/tc211/term/115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/116> <http://www.w3.org/2004/02/skos/core#note> "NOTE - Informationer om form\u00E5l, anvendelse og historik af et datas\u00E6t er ikke-kvantitativ information."^^<@da> .
+<http://iso.org/tc211/term/116> <http://www.w3.org/2004/02/skos/core#prefLabel> "datakvalitet, element til at f\u00E5 overblik over"^^<@da> .
+<http://iso.org/tc211/term/116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/116> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE - Informationer om form\u00E5l, anvendelse og historik af et datas\u00E6t er ikke-kvantitativ information."^^<@da> .
+<http://iso.org/tc211/term/116> <http://www.w3.org/2004/02/skos/core#definition> "ikke-kvantitativ komponent, der dokumenterer kvaliteten af et datas\u00E6t"^^<@da> .
+
+<http://iso.org/tc211/term/117> <http://www.w3.org/2004/02/skos/core#prefLabel> "datakvalitetsresultat"^^<@da> .
+<http://iso.org/tc211/term/117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/117> <http://www.w3.org/2004/02/skos/core#definition> "1) v\u00E6rdi eller s\u00E6t af v\u00E6rdier opn\u00E5et ved at anvende et m\u00E5l for datakvalitet. 2) resultatet af at evaluere de(n) opn\u00E5ede v\u00E6rdi(er) i forhold til et specificeret kvalitetsniveau af overensstemmelse."^^<@da> .
+
+<http://iso.org/tc211/term/118> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Datakvalitetsomfang for et datas\u00E6t kan omfatte en datas\u00E6tserie, som datas\u00E6ttet h\u00F8rer til, datas\u00E6ttet selv eller en mindre gruppe af data i datas\u00E6ttet, som deler de samme egenskaber. Samme egenskaber kan v\u00E6re en identificeret featuretype, featureattribut eller featurerelation, dataindsamlingskriterier, oprindelig kilde eller en specificeret geografisk eller temporal udbredelse."^^<@da> .
+<http://iso.org/tc211/term/118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/118> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Datakvalitetsomfang for et datas\u00E6t kan omfatte en datas\u00E6tserie, som datas\u00E6ttet h\u00F8rer til, datas\u00E6ttet selv eller en mindre gruppe af data i datas\u00E6ttet, som deler de samme egenskaber. Samme egenskaber kan v\u00E6re en identificeret featuretype, featureattribut eller featurerelation, dataindsamlingskriterier, oprindelig kilde eller en specificeret geografisk eller temporal udbredelse."^^<@da> .
+<http://iso.org/tc211/term/118> <http://www.w3.org/2004/02/skos/core#definition> "omfang af eller egenskaber ved de data, for hvilke der rapporteres kvalitetsinformation"^^<@da> .
+<http://iso.org/tc211/term/118> <http://www.w3.org/2004/02/skos/core#prefLabel> "datakvalitet, omfang af"^^<@da> .
+
+<http://iso.org/tc211/term/119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/119> <http://www.w3.org/2004/02/skos/core#definition> "komponent af et datakvalitetselement, der beskriver et bestemt aspekt ved det p\u00E5g\u00E6ldende datakvalitetselement"^^<@da> .
+<http://iso.org/tc211/term/119> <http://www.w3.org/2004/02/skos/core#prefLabel> "datakvalitetsdelelement"^^<@da> .
+
+<http://iso.org/tc211/term/120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/120> <http://www.w3.org/2004/02/skos/core#prefLabel> "datakvalitet, v\u00E6rditype for"^^<@da> .
+<http://iso.org/tc211/term/120> <http://www.w3.org/2004/02/skos/core#definition> "v\u00E6rditype til rapportering af et datakvalitetsresultat"^^<@da> .
+
+<http://iso.org/tc211/term/121> <http://www.w3.org/2004/02/skos/core#definition> "v\u00E6rdienhed til rapportering af et datakvalitetsresultat"^^<@da> .
+<http://iso.org/tc211/term/121> <http://www.w3.org/2004/02/skos/core#prefLabel> "v\u00E6rdienhed for datakvalitet"^^<@da> .
+<http://iso.org/tc211/term/121> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Der anvendes kun en v\u00E6rdienhed for et datakvalitetsresultat, n\u00E5r det er relevant."^^<@da> .
+<http://iso.org/tc211/term/121> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Der anvendes kun en v\u00E6rdienhed for et datakvalitetsresultat, n\u00E5r det er relevant."^^<@da> .
+<http://iso.org/tc211/term/121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/122> <http://www.w3.org/2004/02/skos/core#definition> "flytning af data fra et sted til et andet vha. et medie"^^<@da> .
+<http://iso.org/tc211/term/122> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Overf\u00F8rsel af information betyder overf\u00F8rsel af data."^^<@da> .
+<http://iso.org/tc211/term/122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/122> <http://www.w3.org/2004/02/skos/core#prefLabel> "dataoverf\u00F8rsel"^^<@da> .
+<http://iso.org/tc211/term/122> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Overf\u00F8rsel af information betyder overf\u00F8rsel af data."^^<@da> .
+
+<http://iso.org/tc211/term/123> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Datatyper omfatter pr\u00E6definerede typer (s\u00E5kaldte primitive grundtyper) og brugerdefinerede typer."^^<@da> .
+<http://iso.org/tc211/term/123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/123> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Datatyper omfatter pr\u00E6definerede typer (s\u00E5kaldte primitive grundtyper) og brugerdefinerede typer."^^<@da> .
+<http://iso.org/tc211/term/123> <http://www.w3.org/2004/02/skos/core#definition> "specifikation af et v\u00E6rdidom\u00E6ne inkl. de tilladte operationer p\u00E5 v\u00E6rdier deri"^^<@da> .
+<http://iso.org/tc211/term/123> <http://www.w3.org/2004/02/skos/core#prefLabel> "datatype"^^<@da> .
+
+<http://iso.org/tc211/term/124> <http://www.w3.org/2004/02/skos/core#definition> "identificerbar samling af data"^^<@da> .
+<http://iso.org/tc211/term/124> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Et datas\u00E6t kan v\u00E6re en mindre gruppe af data, der sk\u00F8nt afgr\u00E6nset ved en restriktion (som fx rumlig udbredelse eller featuretype) er placeret fysisk i et st\u00F8rre datas\u00E6t. Teoretisk kan et datas\u00E6t v\u00E6re s\u00E5 sm\u00E5t som en enkelt feature eller featureattribut indeholdt i et st\u00F8rre datas\u00E6t. Et trykt kort eller diagram kan anses for at v\u00E6re et datas\u00E6t."^^<@da> .
+<http://iso.org/tc211/term/124> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Et datas\u00E6t kan v\u00E6re en mindre gruppe af data, der sk\u00F8nt afgr\u00E6nset ved en restriktion (som fx rumlig udbredelse eller featuretype) er placeret fysisk i et st\u00F8rre datas\u00E6t. Teoretisk kan et datas\u00E6t v\u00E6re s\u00E5 sm\u00E5t som en enkelt feature eller featureattribut indeholdt i et st\u00F8rre datas\u00E6t. Et trykt kort eller diagram kan anses for at v\u00E6re et datas\u00E6t."^^<@da> .
+<http://iso.org/tc211/term/124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/124> <http://www.w3.org/2004/02/skos/core#prefLabel> "datas\u00E6t"^^<@da> .
+
+<http://iso.org/tc211/term/125> <http://www.w3.org/2004/02/skos/core#definition> "samling af datas\u00E6t med samme produktspecifikation"^^<@da> .
+<http://iso.org/tc211/term/125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/125> <http://www.w3.org/2004/02/skos/core#prefLabel> "datas\u00E6tserie"^^<@da> .
+
+<http://iso.org/tc211/term/126> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Et datum definerer positionen af nulpunkt, m\u00E5lestok og orientering af akserne i et koordinatsystem."^^<@da> .
+<http://iso.org/tc211/term/126> <http://www.w3.org/2004/02/skos/core#prefLabel> "datum"^^<@da> .
+<http://iso.org/tc211/term/126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/126> <http://www.w3.org/2004/02/skos/core#definition> "parameter eller s\u00E6t af parametre, der tjener som reference eller grundlag for beregning af andre parametre"^^<@da> .
+<http://iso.org/tc211/term/126> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Et datum definerer positionen af nulpunkt, m\u00E5lestok og orientering af akserne i et koordinatsystem."^^<@da> .
+
+<http://iso.org/tc211/term/127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/127> <http://www.w3.org/2004/02/skos/core#definition> "tidsrum af en varighed, der nominelt svarer til den tid, det tager jorden at dreje omkring sin egen akse"^^<@da> .
+<http://iso.org/tc211/term/127> <http://www.w3.org/2004/02/skos/core#prefLabel> "d\u00F8gn"^^<@da> .
+
+<http://iso.org/tc211/term/128> <http://www.w3.org/2004/02/skos/core#prefLabel> "definition"^^<@da> .
+<http://iso.org/tc211/term/128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/128> <http://www.w3.org/2004/02/skos/core#definition> "beskrivelse af et begreb ved et deskriptivt udsagn, der tjener til at skelne det fra besl\u00E6gtede begreber"^^<@da> .
+
+<http://iso.org/tc211/term/129> <http://www.w3.org/2004/02/skos/core#prefLabel> "Delaunay-triangulation"^^<@da> .
+<http://iso.org/tc211/term/129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/129> <http://www.w3.org/2004/02/skos/core#definition> "netv\u00E6rk af trekanter dannet s\u00E5ledes, at der inden for ingen af de cirkler, som g\u00E5r igennem trekanternes toppunkter, ligger en anden trekants toppunkt"^^<@da> .
+
+<http://iso.org/tc211/term/130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/130> <http://www.w3.org/2004/02/skos/core#prefLabel> "afh\u00E6ngighed <UML>"^^<@da> .
+<http://iso.org/tc211/term/130> <http://www.w3.org/2004/02/skos/core#definition> "relation mellem to elementer (klasser), hvor en \u00E6ndring af det ene element (det uafh\u00E6ngige element) vil p\u00E5virke det andet element (det afh\u00E6ngige element)"^^<@da> .
+
+<http://iso.org/tc211/term/131> <http://www.w3.org/2004/02/skos/core#prefLabel> "frar\u00E5det term"^^<@da> .
+<http://iso.org/tc211/term/131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/131> <http://www.w3.org/2004/02/skos/core#definition> "term, klassificeret efter en skala for tilladte termer som u\u00F8nsket"^^<@da> .
+
+<http://iso.org/tc211/term/661> <http://www.w3.org/2004/02/skos/core#prefLabel> "digitalt element"^^<@da> .
+<http://iso.org/tc211/term/661> <http://www.w3.org/2004/02/skos/core#definition> "struktureret digitalt objekt [v\u00E6rdi, arbejde, tjeneste, data eller information] med en standardrepr\u00E6sentation, identifikation og metadata"^^<@da> .
+<http://iso.org/tc211/term/661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/133> <http://www.w3.org/2004/02/skos/core#definition> "positivt v\u00E6gtet retningsbestemt graf, der er konfigureret til at udf\u00F8re en s\u00F8gning efter korteste vej"^^<@da> .
+<http://iso.org/tc211/term/133> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Termen stammer fra den mest almindeligt kendte algoritme til at finde den korteste vej i en positivt v\u00E6gtet graf fra E. Dijkstra's afhandling. Sk\u00F8nt denne algoritme ikke er den eneste, der anvendes, kender de fleste kravene til grafen. Den mest almindelige lempelse af kravet er \"positive v\u00E6gte,\" der ikke er n\u00F8dvendige i Bellman-Ford-algoritmen."^^<@da> .
+<http://iso.org/tc211/term/133> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dijkstra-graf"^^<@da> .
+<http://iso.org/tc211/term/133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/133> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Termen stammer fra den mest almindeligt kendte algoritme til at finde den korteste vej i en positivt v\u00E6gtet graf fra E. Dijkstra's afhandling. Sk\u00F8nt denne algoritme ikke er den eneste, der anvendes, kender de fleste kravene til grafen. Den mest almindelige lempelse af kravet er \"positive v\u00E6gte,\" der ikke er n\u00F8dvendige i Bellman-Ford-algoritmen."^^<@da> .
+
+<http://iso.org/tc211/term/134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/134> <http://www.w3.org/2004/02/skos/core#definition> "metode til vurdering af kvaliteten af et datas\u00E6t baseret p\u00E5 unders\u00F8gelse af elementerne i datas\u00E6ttet"^^<@da> .
+<http://iso.org/tc211/term/134> <http://www.w3.org/2004/02/skos/core#prefLabel> "direkte vurderingsmetode"^^<@da> .
+
+<http://iso.org/tc211/term/135> <http://www.w3.org/2004/02/skos/core#prefLabel> "direkte position"^^<@da> .
+<http://iso.org/tc211/term/135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/135> <http://www.w3.org/2004/02/skos/core#definition> "position beskrevet ved et enkelt s\u00E6t af koordinater i et koordinatsystem"^^<@da> .
+
+<http://iso.org/tc211/term/136> <http://www.w3.org/2004/02/skos/core#definition> "retningsbestemt topologisk objekt, der repr\u00E6senterer en forbindelse mellem en kant og en af dens orienteringer"^^<@da> .
+<http://iso.org/tc211/term/136> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 En retningsbestemt kant, der er i overensstemmelse med kantens orientering, har en (+)-orientering, ellers har den modsat (-)-orientering. Retningsbestemte kanter anvendes i topologien til at skelne h\u00F8jre side (-) fra venstre side (+) af samme kant samt startknude (-) og slutknude (+) af samme kant. I algoritmisk topologi benyttes de til at repr\u00E6sentere disse begreber."^^<@da> .
+<http://iso.org/tc211/term/136> <http://www.w3.org/2004/02/skos/core#prefLabel> "retningsbestemt kant"^^<@da> .
+<http://iso.org/tc211/term/136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/136> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 En retningsbestemt kant, der er i overensstemmelse med kantens orientering, har en (+)-orientering, ellers har den modsat (-)-orientering. Retningsbestemte kanter anvendes i topologien til at skelne h\u00F8jre side (-) fra venstre side (+) af samme kant samt startknude (-) og slutknude (+) af samme kant. I algoritmisk topologi benyttes de til at repr\u00E6sentere disse begreber."^^<@da> .
+
+<http://iso.org/tc211/term/137> <http://www.w3.org/2004/02/skos/core#prefLabel> "retningsbestemt flade"^^<@da> .
+<http://iso.org/tc211/term/137> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Orienteringen af de retningsbestemte kanter, der udg\u00F8r den ydre afgr\u00E6nsning af en retningsbestemt flade, vil v\u00E6re positiv i den retning, som denne vektor peger; orienteringen af en retningsbestemt flade, der afgr\u00E6nser et topologisk legeme, vil pege v\u00E6k fra det topologiske legeme. Tilst\u00F8dende legemers orienteringer er forskellige for deres f\u00E6lles gr\u00E6nse, hvilket er i overensstemmelse med den samme type forbindelse mellem tilst\u00F8dende flader og deres f\u00E6lles kanter. Retningsbestemte flader benyttes i f\u00E6llesgr\u00E6nse-relationen til at opretholde den rumlige forbindelse mellem overflade og kant."^^<@da> .
+<http://iso.org/tc211/term/137> <http://www.w3.org/2004/02/skos/core#definition> "retningsbestemt topologisk objekt, der repr\u00E6senterer en forbindelse mellem en flade og en af dens orienteringer"^^<@da> .
+<http://iso.org/tc211/term/137> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Orienteringen af de retningsbestemte kanter, der udg\u00F8r den ydre afgr\u00E6nsning af en retningsbestemt flade, vil v\u00E6re positiv i den retning, som denne vektor peger; orienteringen af en retningsbestemt flade, der afgr\u00E6nser et topologisk legeme, vil pege v\u00E6k fra det topologiske legeme. Tilst\u00F8dende legemers orienteringer er forskellige for deres f\u00E6lles gr\u00E6nse, hvilket er i overensstemmelse med den samme type forbindelse mellem tilst\u00F8dende flader og deres f\u00E6lles kanter. Retningsbestemte flader benyttes i f\u00E6llesgr\u00E6nse-relationen til at opretholde den rumlige forbindelse mellem overflade og kant."^^<@da> .
+<http://iso.org/tc211/term/137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/138> <http://www.w3.org/2004/02/skos/core#note> "NOTE - Retningsbestemte knuder benyttes i f\u00E6llesgr\u00E6nse-relationen til at opretholde den rumlige relation mellem kant og knude. Orenteringen af en knude i forhold til en kant er \"+\" for en slutknude og \"-\" for en startknude. Dette stemmer overens med vektornotationen: at \"resultatet = slut - start\"."^^<@da> .
+<http://iso.org/tc211/term/138> <http://www.w3.org/2004/02/skos/core#definition> "retningsbestemt topologisk objekt, der repr\u00E6senterer en forbindelse mellem en knude og en af dens orienteringer"^^<@da> .
+<http://iso.org/tc211/term/138> <http://www.w3.org/2004/02/skos/core#prefLabel> "retningsbestemt knude"^^<@da> .
+<http://iso.org/tc211/term/138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/138> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE - Retningsbestemte knuder benyttes i f\u00E6llesgr\u00E6nse-relationen til at opretholde den rumlige relation mellem kant og knude. Orenteringen af en knude i forhold til en kant er \"+\" for en slutknude og \"-\" for en startknude. Dette stemmer overens med vektornotationen: at \"resultatet = slut - start\"."^^<@da> .
+
+<http://iso.org/tc211/term/139> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE - Retningsbestemte legemer benyttes i f\u00E6llesgr\u00E6nse-relationen til at opretholde den rumlige forbindelse mellem flade og topologisk legeme. Orienteringen af et legeme i forhold til en flade er \"+\", hvis upNormal peger v\u00E6k fra legemet, og \"-\" hvis upNormal peger ind mod legemet.  Dette stemmer overens med begrebet \"up = v\u00E6k fra\" for en flade, der afgr\u00E6nser et legeme."^^<@da> .
+<http://iso.org/tc211/term/139> <http://www.w3.org/2004/02/skos/core#note> "NOTE - Retningsbestemte legemer benyttes i f\u00E6llesgr\u00E6nse-relationen til at opretholde den rumlige forbindelse mellem flade og topologisk legeme. Orienteringen af et legeme i forhold til en flade er \"+\", hvis upNormal peger v\u00E6k fra legemet, og \"-\" hvis upNormal peger ind mod legemet.  Dette stemmer overens med begrebet \"up = v\u00E6k fra\" for en flade, der afgr\u00E6nser et legeme."^^<@da> .
+<http://iso.org/tc211/term/139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/139> <http://www.w3.org/2004/02/skos/core#prefLabel> "retningsbestemt legeme"^^<@da> .
+<http://iso.org/tc211/term/139> <http://www.w3.org/2004/02/skos/core#definition> "retningsbestemt topologisk objekt, der repr\u00E6senterer en fobindelse mellem et topologisk legeme og en af dets orienteringer"^^<@da> .
+
+<http://iso.org/tc211/term/140> <http://www.w3.org/2004/02/skos/core#definition> "topologisk objekt, der repr\u00E6senterer en logisk forbindelse mellem en topologisk grundform og en af dets orienteringer"^^<@da> .
+<http://iso.org/tc211/term/140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/140> <http://www.w3.org/2004/02/skos/core#prefLabel> "retningsbestemt topologisk objekt"^^<@da> .
+
+<http://iso.org/tc211/term/141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/141> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 En diskret coverage\u2019s dom\u00E6ne best\u00E5r af en endelig m\u00E6ngde af rumlige, temporale eller rumlige-temporale objekter."^^<@da> .
+<http://iso.org/tc211/term/141> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 En diskret coverage\u2019s dom\u00E6ne best\u00E5r af en endelig m\u00E6ngde af rumlige, temporale eller rumlige-temporale objekter."^^<@da> .
+<http://iso.org/tc211/term/141> <http://www.w3.org/2004/02/skos/core#definition> "coverage, der giver samme featureattributv\u00E6rdier for hver direkte position inden for dens rumlige, temporale eller rumlig-temporale dom\u00E6ne"^^<@da> .
+<http://iso.org/tc211/term/141> <http://www.w3.org/2004/02/skos/core#prefLabel> "diskret coverage"^^<@da> .
+
+<http://iso.org/tc211/term/143> <http://www.w3.org/2004/02/skos/core#definition> "det at skjule den potentielle opf\u00F8rsel af visse dele af et distribueret system for en bestemt bruger"^^<@da> .
+<http://iso.org/tc211/term/143> <http://www.w3.org/2004/02/skos/core#prefLabel> "distributionsgennemsigtighed"^^<@da> .
+<http://iso.org/tc211/term/143> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Distributionsgennemsigtighed g\u00F8r det muligt at skjule irrelevante kompleksiteter forbundet med distributionen af systemet."^^<@da> .
+<http://iso.org/tc211/term/143> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Distributionsgennemsigtighed g\u00F8r det muligt at skjule irrelevante kompleksiteter forbundet med distributionen af systemet."^^<@da> .
+<http://iso.org/tc211/term/143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/144> <http://www.w3.org/2004/02/skos/core#prefLabel> "dom\u00E6ne"^^<@da> .
+<http://iso.org/tc211/term/144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/144> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Dom\u00E6ner anvendes til at definere dom\u00E6nes\u00E6t og intervals\u00E6t for attributter, operatorer og funktioner."^^<@da> .
+<http://iso.org/tc211/term/144> <http://www.w3.org/2004/02/skos/core#definition> "veldefineret m\u00E6ngde"^^<@da> .
+<http://iso.org/tc211/term/144> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Dom\u00E6ner anvendes til at definere dom\u00E6nes\u00E6t og intervals\u00E6t for attributter, operatorer og funktioner."^^<@da> .
+
+<http://iso.org/tc211/term/145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/145> <http://www.w3.org/2004/02/skos/core#definition> "afstand i et koordinatsystem i \u00F8stlig retning (positiv) eller vestlig retning (negativ) ud fra en nord-syd-g\u00E5ende referencelinje"^^<@da> .
+<http://iso.org/tc211/term/145> <http://www.w3.org/2004/02/skos/core#prefLabel> "easting"^^<@da> .
+
+<http://iso.org/tc211/term/146> <http://www.w3.org/2004/02/skos/core#prefLabel> "kant"^^<@da> .
+<http://iso.org/tc211/term/146> <http://www.w3.org/2004/02/skos/core#definition> "1-dimensional topologisk grundform"^^<@da> .
+<http://iso.org/tc211/term/146> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Den geometriske realisering af en kant er en kurve. Afgr\u00E6nsningen af en kant er m\u00E6ngden af en eller to knuder knyttet til kanten i et topologisk kompleks."^^<@da> .
+<http://iso.org/tc211/term/146> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Den geometriske realisering af en kant er en kurve. Afgr\u00E6nsningen af en kant er m\u00E6ngden af en eller to knuder knyttet til kanten i et topologisk kompleks."^^<@da> .
+<http://iso.org/tc211/term/146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/147> <http://www.w3.org/2004/02/skos/core#definition> "graf indlejret i et topologisk kompleks, der best\u00E5r af alle kanter og forbundne knuder i komplekset"^^<@da> .
+<http://iso.org/tc211/term/147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/147> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Kant-knude-grafen er et delkompleks af det kompleks, som det er indlejret i."^^<@da> .
+<http://iso.org/tc211/term/147> <http://www.w3.org/2004/02/skos/core#prefLabel> "kant-knude-graf"^^<@da> .
+<http://iso.org/tc211/term/147> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Kant-knude-grafen er et delkompleks af det kompleks, som det er indlejret i."^^<@da> .
+
+<http://iso.org/tc211/term/149> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 I denne internationale standard er ellipsoider altid fladtrykte, dvs. rotationsaksen er altid lilleaksen."^^<@da> .
+<http://iso.org/tc211/term/149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/149> <http://www.w3.org/2004/02/skos/core#definition> "overflade dannet ved rotation af en ellipse omkring en hovedakse"^^<@da> .
+<http://iso.org/tc211/term/149> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 I denne internationale standard er ellipsoider altid fladtrykte, dvs. rotationsaksen er altid lilleaksen."^^<@da> .
+<http://iso.org/tc211/term/149> <http://www.w3.org/2004/02/skos/core#prefLabel> "ellipsoide"^^<@da> .
+
+<http://iso.org/tc211/term/502> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/502> <http://www.w3.org/2004/02/skos/core#definition> "koordinatsysstem, hvori position er specificeret ved geod\u00E6tisk bredde, geod\u00E6tisk l\u00E6ngde og (hvis 3-dimensionalt) ellipsoideh\u00F8jde"^^<@da> .
+<http://iso.org/tc211/term/502> <http://www.w3.org/2004/02/skos/core#prefLabel> "ellipsoidekoordinatsystem"^^<@da> .
+
+<http://iso.org/tc211/term/150> <http://www.w3.org/2004/02/skos/core#prefLabel> "ellipsoideh\u00F8jde"^^<@da> .
+<http://iso.org/tc211/term/150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/150> <http://www.w3.org/2004/02/skos/core#definition> "et punkts afstand fra ellipsoiden m\u00E5lt langs normalen fra ellipsoiden til dette punkt. Positiv, hvis det ligger over eller uden for ellipsoiden"^^<@da> .
+<http://iso.org/tc211/term/150> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Benyttes kun som en del af et 3-dimensionalt geod\u00E6tisk koordinatsystem og aldrig alene."^^<@da> .
+<http://iso.org/tc211/term/150> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Benyttes kun som en del af et 3-dimensionalt geod\u00E6tisk koordinatsystem og aldrig alene."^^<@da> .
+
+<http://iso.org/tc211/term/503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/503> <http://www.w3.org/2004/02/skos/core#prefLabel> "ellipsoidebredde"^^<@da> .
+<http://iso.org/tc211/term/503> <http://www.w3.org/2004/02/skos/core#definition> "vinkel mellem \u00E6kvitorialfladen og normalen p\u00E5 ellipsoiden gennem et givet punkt, hvor nord regnes positiv"^^<@da> .
+
+<http://iso.org/tc211/term/504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/504> <http://www.w3.org/2004/02/skos/core#definition> "vinkel fra hovedmeridianplanet til et givet punkts meridianplan, hvor \u00F8st regnes positiv"^^<@da> .
+<http://iso.org/tc211/term/504> <http://www.w3.org/2004/02/skos/core#prefLabel> "ellipsoidel\u00E6ngde"^^<@da> .
+
+<http://iso.org/tc211/term/151> <http://www.w3.org/2004/02/skos/core#definition> "konvertering af data til en r\u00E6kke koder"^^<@da> .
+<http://iso.org/tc211/term/151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/151> <http://www.w3.org/2004/02/skos/core#prefLabel> "kodning"^^<@da> .
+
+<http://iso.org/tc211/term/152> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 En kodningsregel specificerer, hvilken type data der skal konverteres, samt den syntaks, struktur og de koder, der anvendes i den resulterende datastruktur."^^<@da> .
+<http://iso.org/tc211/term/152> <http://www.w3.org/2004/02/skos/core#definition> "identificerbar samling af konverteringsregler, der definerer kodningen for en bestemt datastruktur"^^<@da> .
+<http://iso.org/tc211/term/152> <http://www.w3.org/2004/02/skos/core#prefLabel> "kodningsregel"^^<@da> .
+<http://iso.org/tc211/term/152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/152> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 En kodningsregel specificerer, hvilken type data der skal konverteres, samt den syntaks, struktur og de koder, der anvendes i den resulterende datastruktur."^^<@da> .
+
+<http://iso.org/tc211/term/153> <http://www.w3.org/2004/02/skos/core#definition> "softwarekomponent med en implementeret kodningsregel"^^<@da> .
+<http://iso.org/tc211/term/153> <http://www.w3.org/2004/02/skos/core#prefLabel> "kodningstjeneste"^^<@da> .
+<http://iso.org/tc211/term/153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/154> <http://www.w3.org/2004/02/skos/core#prefLabel> "slutknude"^^<@da> .
+<http://iso.org/tc211/term/154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/154> <http://www.w3.org/2004/02/skos/core#definition> "knude i afgr\u00E6nsningen af en kant, der svarer til kantens slutpunkt som en kurve i enhver gyldig geometrisk realisering af et topologisk kompleks, hvori kanten indg\u00E5r"^^<@da> .
+
+<http://iso.org/tc211/term/155> <http://www.w3.org/2004/02/skos/core#prefLabel> "slutpunkt"^^<@da> .
+<http://iso.org/tc211/term/155> <http://www.w3.org/2004/02/skos/core#definition> "sidste punkt p\u00E5 en kurve"^^<@da> .
+<http://iso.org/tc211/term/155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/156> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Teknisk datum udelukker b\u00E5de geod\u00E6tiske og vertikale datummer."^^<@da> .
+<http://iso.org/tc211/term/156> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Teknisk datum udelukker b\u00E5de geod\u00E6tiske og vertikale datummer."^^<@da> .
+<http://iso.org/tc211/term/156> <http://www.w3.org/2004/02/skos/core#prefLabel> "teknisk datum"^^<@da> .
+<http://iso.org/tc211/term/156> <http://www.w3.org/2004/02/skos/core#definition> "datum, der beskriver relationen mellem et koordinatsystem og en lokal reference"^^<@da> .
+
+<http://iso.org/tc211/term/157> <http://www.w3.org/2004/02/skos/core#definition> "synsvinkel p\u00E5 et ODP-system og dets omgivelser, som fokuserer p\u00E5 de mekanismer og funktioner, der er n\u00F8dvendigt for at underst\u00F8tte distribueret interaktion mellem objekter i systemet"^^<@da> .
+<http://iso.org/tc211/term/157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/157> <http://www.w3.org/2004/02/skos/core#prefLabel> "synsvinkel, teknisk"^^<@da> .
+
+<http://iso.org/tc211/term/158> <http://www.w3.org/2004/02/skos/core#prefLabel> "synsvinkel, virksomhed"^^<@da> .
+<http://iso.org/tc211/term/158> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/158> <http://www.w3.org/2004/02/skos/core#definition> "synsvinkel p\u00E5 et ODP-system og dets omgivelser, der fokuserer p\u00E5 form\u00E5l, anvendelsesomr\u00E5de og politikker for systemet"^^<@da> .
+
+<http://iso.org/tc211/term/159> <http://www.w3.org/2004/02/skos/core#prefLabel> "vurdering<coverage>"^^<@da> .
+<http://iso.org/tc211/term/159> <http://www.w3.org/2004/02/skos/core#definition> "fastl\u00E6ggelse af en coverage\u2019s v\u00E6rdier i en direkte position inden for dom\u00E6net af denne coverage"^^<@da> .
+<http://iso.org/tc211/term/159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/160> <http://www.w3.org/2004/02/skos/core#prefLabel> "h\u00E6ndelse"^^<@da> .
+<http://iso.org/tc211/term/160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/160> <http://www.w3.org/2004/02/skos/core#definition> "handling, der sker i et \u00F8jeblik"^^<@da> .
+
+<http://iso.org/tc211/term/161> <http://www.w3.org/2004/02/skos/core#definition> "specifik test af en implementering for at opfylde bestemte krav"^^<@da> .
+<http://iso.org/tc211/term/161> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Instantiering af et abstrakt testforl\u00F8b med v\u00E6rdier."^^<@da> .
+<http://iso.org/tc211/term/161> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Instantiering af et abstrakt testforl\u00F8b med v\u00E6rdier."^^<@da> .
+<http://iso.org/tc211/term/161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/161> <http://www.w3.org/2004/02/skos/core#prefLabel> "eksekverbar testcase"^^<@da> .
+
+<http://iso.org/tc211/term/162> <http://www.w3.org/2004/02/skos/core#prefLabel> "eksekverbar testsuite"^^<@da> .
+<http://iso.org/tc211/term/162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/162> <http://www.w3.org/2004/02/skos/core#definition> "s\u00E6t af eksekverbare testforl\u00F8b"^^<@da> .
+
+<http://iso.org/tc211/term/163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/163> <http://www.w3.org/2004/02/skos/core#definition> "forskel mellem universet og den enhed, der betragtes"^^<@da> .
+<http://iso.org/tc211/term/163> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Begrebet ydre kan anvendes b\u00E5de p\u00E5 topologiske og geometriske komplekser."^^<@da> .
+<http://iso.org/tc211/term/163> <http://www.w3.org/2004/02/skos/core#prefLabel> "ydre"^^<@da> .
+<http://iso.org/tc211/term/163> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Begrebet ydre kan anvendes b\u00E5de p\u00E5 topologiske og geometriske komplekser."^^<@da> .
+
+<http://iso.org/tc211/term/164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/164> <http://www.w3.org/2004/02/skos/core#definition> "funktion, der ikke er en del af applikationsmodellen"^^<@da> .
+<http://iso.org/tc211/term/164> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Det elektroniske kort i et navigationssystem i en bil skal vises s\u00E5ledes, at opad p\u00E5 kortet altid er den retning, hvori bilen bev\u00E6ger sig. For at kunne specificere kortets rotation, skal bilens aktuelle position hentes kontinuerligt fra en ekstern positionsm\u00E5ler ved hj\u00E6lp af en ekstern funktion."^^<@da> .
+<http://iso.org/tc211/term/164> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Det elektroniske kort i et navigationssystem i en bil skal vises s\u00E5ledes, at opad p\u00E5 kortet altid er den retning, hvori bilen bev\u00E6ger sig. For at kunne specificere kortets rotation, skal bilens aktuelle position hentes kontinuerligt fra en ekstern positionsm\u00E5ler ved hj\u00E6lp af en ekstern funktion."^^<@da> .
+<http://iso.org/tc211/term/164> <http://www.w3.org/2004/02/skos/core#prefLabel> "ekstern funktion"^^<@da> .
+
+<http://iso.org/tc211/term/165> <http://www.w3.org/2004/02/skos/core#definition> "2-dimensional topologisk grundform"^^<@da> .
+<http://iso.org/tc211/term/165> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Den geometriske realisering af et areal er en flade. Afgr\u00E6nsningen af en flade er lig med m\u00E6ngden af retningsbestemte kanter (inden for samme topologiske kompleks), som er forbundet med fladen via gr\u00E6nserelationerne. Disse kan v\u00E6re organiseret som ringe."^^<@da> .
+<http://iso.org/tc211/term/165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/165> <http://www.w3.org/2004/02/skos/core#prefLabel> "areal"^^<@da> .
+<http://iso.org/tc211/term/165> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Den geometriske realisering af et areal er en flade. Afgr\u00E6nsningen af en flade er lig med m\u00E6ngden af retningsbestemte kanter (inden for samme topologiske kompleks), som er forbundet med fladen via gr\u00E6nserelationerne. Disse kan v\u00E6re organiseret som ringe."^^<@da> .
+
+<http://iso.org/tc211/term/166> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 At der ikke er overensstemmelse kan v\u00E6re enten med hensyn til testform\u00E5l eller at mindst et af overensstemmelseskravene i den eller de relevante standard(er) ikke er opfyldt."^^<@da> .
+<http://iso.org/tc211/term/166> <http://www.w3.org/2004/02/skos/core#prefLabel> "overensstemmelse, manglende"^^<@da> .
+<http://iso.org/tc211/term/166> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/166> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 At der ikke er overensstemmelse kan v\u00E6re enten med hensyn til testform\u00E5l eller at mindst et af overensstemmelseskravene i den eller de relevante standard(er) ikke er opfyldt."^^<@da> .
+<http://iso.org/tc211/term/166> <http://www.w3.org/2004/02/skos/core#definition> "udfald af test om at der ikke er overensstemmelse"^^<@da> .
+
+<http://iso.org/tc211/term/167> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Hvis der findes fejl, er det korrekt at udlede, at implementeringen ikke er i overensstemmelse med den relevante standard; frav\u00E6r af fejl betyder derimod ikke n\u00F8dvendigvis det modsatte. Fejlfindingstesten kan kun p\u00E5vise manglende overensstemmelse."^^<@da> .
+<http://iso.org/tc211/term/167> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Hvis der findes fejl, er det korrekt at udlede, at implementeringen ikke er i overensstemmelse med den relevante standard; frav\u00E6r af fejl betyder derimod ikke n\u00F8dvendigvis det modsatte. Fejlfindingstesten kan kun p\u00E5vise manglende overensstemmelse."^^<@da> .
+<http://iso.org/tc211/term/167> <http://www.w3.org/2004/02/skos/core#definition> "test med det form\u00E5l at finde fejl i implementeringen"^^<@da> .
+<http://iso.org/tc211/term/167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/167> <http://www.w3.org/2004/02/skos/core#prefLabel> "fejlfindingstest"^^<@da> .
+
+<http://iso.org/tc211/term/168> <http://www.w3.org/2004/02/skos/core#definition> "abstraktion af et f\u00E6nomen fra den virkelige verden"^^<@da> .
+<http://iso.org/tc211/term/168> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 En feature kan v\u00E6re en type eller en instans. Featuretype eller featureinstans skal anvendes, s\u00E5 det fremg\u00E5r hvilken af dem der menes."^^<@da> .
+<http://iso.org/tc211/term/168> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 En feature kan v\u00E6re en type eller en instans. Featuretype eller featureinstans skal anvendes, s\u00E5 det fremg\u00E5r hvilken af dem der menes."^^<@da> .
+<http://iso.org/tc211/term/168> <http://www.w3.org/2004/02/skos/core#prefLabel> "feature"^^<@da> .
+<http://iso.org/tc211/term/168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/169> <http://www.w3.org/2004/02/skos/core#prefLabel> "featureassociation"^^<@da> .
+<http://iso.org/tc211/term/169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/169> <http://www.w3.org/2004/02/skos/core#definition> "relation, der forbinder instanser af \u00E9n featuretype med instanser af den samme eller en anden featuretype"^^<@da> .
+
+<http://iso.org/tc211/term/170> <http://www.w3.org/2004/02/skos/core#note> "NOTE 2 \u2013 I et featurekatalog kan en featureattribut indeholde et s\u00E6t dom\u00E6nev\u00E6rdier, men den specificerer ikke attributv\u00E6rdier for featureinstanser."^^<@da> .
+<http://iso.org/tc211/term/170> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE 2 \u2013 I et featurekatalog kan en featureattribut indeholde et s\u00E6t dom\u00E6nev\u00E6rdier, men den specificerer ikke attributv\u00E6rdier for featureinstanser."^^<@da> .
+<http://iso.org/tc211/term/170> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE 1 \u2013 En featureattribut er forbundet med et navn, en datatype og et s\u00E6t dom\u00E6nev\u00E6rdier.  En featureattribut for en featureinstans har ogs\u00E5 en attributv\u00E6rdi taget fra dom\u00E6nev\u00E6rdierne."^^<@da> .
+<http://iso.org/tc211/term/170> <http://www.w3.org/2004/02/skos/core#note> "NOTE 1 \u2013 En featureattribut er forbundet med et navn, en datatype og et s\u00E6t dom\u00E6nev\u00E6rdier.  En featureattribut for en featureinstans har ogs\u00E5 en attributv\u00E6rdi taget fra dom\u00E6nev\u00E6rdierne."^^<@da> .
+<http://iso.org/tc211/term/170> <http://www.w3.org/2004/02/skos/core#definition> "egenskab ved en feature"^^<@da> .
+<http://iso.org/tc211/term/170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/170> <http://www.w3.org/2004/02/skos/core#prefLabel> "featureattribut"^^<@da> .
+
+<http://iso.org/tc211/term/172> <http://www.w3.org/2004/02/skos/core#prefLabel> "featurekatalog"^^<@da> .
+<http://iso.org/tc211/term/172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/172> <http://www.w3.org/2004/02/skos/core#definition> "katalog, der indeholder definitioner og beskrivelser af featuretyper, featureattributter og featureassociationer, som optr\u00E6der i et eller flere geografiske datas\u00E6t sammen med de eventuelle featureoperationer, der kan anvendes"^^<@da> .
+
+<http://iso.org/tc211/term/174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/174> <http://www.w3.org/2004/02/skos/core#definition> "featureerstatning, hvor en tidligere eksisterende feature erstattes af to eller flere s\u00E6rskilte featureinstanser af samme featuretype"^^<@da> .
+<http://iso.org/tc211/term/174> <http://www.w3.org/2004/02/skos/core#prefLabel> "featuredeling"^^<@da> .
+
+<http://iso.org/tc211/term/175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/175> <http://www.w3.org/2004/02/skos/core#definition> "featureerstatning, hvor to eller flere tidligere eksisterende instanser af en featuretype erstattes af en enkelt instans af samme featuretype"^^<@da> .
+<http://iso.org/tc211/term/175> <http://www.w3.org/2004/02/skos/core#prefLabel> "featuresammenl\u00E6gning"^^<@da> .
+
+<http://iso.org/tc211/term/177> <http://www.w3.org/2004/02/skos/core#prefLabel> "featureoperation"^^<@da> .
+<http://iso.org/tc211/term/177> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Nogle gange danner featureoperationer grundlag for definitionen af en featuretype."^^<@da> .
+<http://iso.org/tc211/term/177> <http://www.w3.org/2004/02/skos/core#definition> "operation, som hver instans af en featuretype kan udf\u00F8re"^^<@da> .
+<http://iso.org/tc211/term/177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/177> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Nogle gange danner featureoperationer grundlag for definitionen af en featuretype."^^<@da> .
+
+<http://iso.org/tc211/term/178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/178> <http://www.w3.org/2004/02/skos/core#definition> "samling af visualiseringsregler, der g\u00E6lder for en feature"^^<@da> .
+<http://iso.org/tc211/term/178> <http://www.w3.org/2004/02/skos/core#prefLabel> "featurevisualisering, regels\u00E6t for"^^<@da> .
+
+<http://iso.org/tc211/term/180> <http://www.w3.org/2004/02/skos/core#definition> "featureerstatning, hvor \u00E9n featureinstans erstattes af en anden featureinstans af samme eller af en anden featuretype"^^<@da> .
+<http://iso.org/tc211/term/180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/180> <http://www.w3.org/2004/02/skos/core#prefLabel> "featuresubstitution"^^<@da> .
+
+<http://iso.org/tc211/term/181> <http://www.w3.org/2004/02/skos/core#definition> "erstatning af en eller flere featureinstanser med andre featureinstanser, s\u00E5ledes at de oprindelige featureinstanser oph\u00F8rer med at eksistere"^^<@da> .
+<http://iso.org/tc211/term/181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/181> <http://www.w3.org/2004/02/skos/core#prefLabel> "featureerstatning"^^<@da> .
+
+<http://iso.org/tc211/term/182> <http://www.w3.org/2004/02/skos/core#prefLabel> "featuretabel"^^<@da> .
+<http://iso.org/tc211/term/182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/182> <http://www.w3.org/2004/02/skos/core#definition> "tabel, hvor kolonnerne repr\u00E6senterer featureattributter, og r\u00E6kkerne repr\u00E6senterer features"^^<@da> .
+
+<http://iso.org/tc211/term/186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/186> <http://www.w3.org/2004/02/skos/core#definition> "navngivet s\u00E6t af records, der lagres eller behandles som en enhed"^^<@da> .
+<http://iso.org/tc211/term/186> <http://www.w3.org/2004/02/skos/core#prefLabel> "fil"^^<@da> .
+
+<http://iso.org/tc211/term/187> <http://www.w3.org/2004/02/skos/core#definition> "et m\u00E5l for hvor meget en ellipsoide afviger fra en kugle, udtrykt matematisk med f\u00F8lgende formel: f = (a-b)/a, hvor a = ellipsoidens halve storakse, b = ellipsoidens halve lilleakse."^^<@da> .
+<http://iso.org/tc211/term/187> <http://www.w3.org/2004/02/skos/core#prefLabel> "fladtrykning"^^<@da> .
+<http://iso.org/tc211/term/187> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Under tiden angives omvendt fladtrykning 1/f = a/(a-b) i stedet for; 1/f kaldes ogs\u00E5 reciprok fladtrykning."^^<@da> .
+<http://iso.org/tc211/term/187> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Under tiden angives omvendt fladtrykning 1/f = a/(a-b) i stedet for; 1/f kaldes ogs\u00E5 reciprok fladtrykning."^^<@da> .
+<http://iso.org/tc211/term/187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/189> <http://www.w3.org/2004/02/skos/core#prefLabel> "fuldst\u00E6ndig unders\u00F8gelse"^^<@da> .
+<http://iso.org/tc211/term/189> <http://www.w3.org/2004/02/skos/core#definition> "unders\u00F8gelse af alle elementer i et datas\u00E6t"^^<@da> .
+<http://iso.org/tc211/term/189> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/189> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Fuldst\u00E6ndig unders\u00F8gelse kaldes ogs\u00E5 100 %-unders\u00F8gelse."^^<@da> .
+<http://iso.org/tc211/term/189> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Fuldst\u00E6ndig unders\u00F8gelse kaldes ogs\u00E5 100 %-unders\u00F8gelse."^^<@da> .
+
+<http://iso.org/tc211/term/190> <http://www.w3.org/2004/02/skos/core#definition> "regel, der forbinder ethvert element fra et dom\u00E6ne (kilde eller funktionens dom\u00E6ne) med et entydigt element i et andet dom\u00E6ne (m\u00E5l, f\u00E6llesdom\u00E6ne eller interval)"^^<@da> .
+<http://iso.org/tc211/term/190> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/190> <http://www.w3.org/2004/02/skos/core#prefLabel> "funktion"^^<@da> .
+
+<http://iso.org/tc211/term/191> <http://www.w3.org/2004/02/skos/core#definition> "sprog, som featureoperationer formelt specificeres i"^^<@da> .
+<http://iso.org/tc211/term/191> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 I et funktionelt sprog kan featuretyper angives som abstrakte datatyper."^^<@da> .
+<http://iso.org/tc211/term/191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/191> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 I et funktionelt sprog kan featuretyper angives som abstrakte datatyper."^^<@da> .
+<http://iso.org/tc211/term/191> <http://www.w3.org/2004/02/skos/core#prefLabel> "funktionelt sprog"^^<@da> .
+
+<http://iso.org/tc211/term/192> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE - GDF, S-57 og DIGEST er eksempler p\u00E5 funktionelle standarder."^^<@da> .
+<http://iso.org/tc211/term/192> <http://www.w3.org/2004/02/skos/core#definition> "eksisterende geografisk informationsstandard, der bruges aktivt af en international gruppe af dataproducenter og databrugere"^^<@da> .
+<http://iso.org/tc211/term/192> <http://www.w3.org/2004/02/skos/core#note> "NOTE - GDF, S-57 og DIGEST er eksempler p\u00E5 funktionelle standarder."^^<@da> .
+<http://iso.org/tc211/term/192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/192> <http://www.w3.org/2004/02/skos/core#prefLabel> "funktionel standard"^^<@da> .
+
+<http://iso.org/tc211/term/193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/193> <http://www.w3.org/2004/02/skos/core#prefLabel> "stedfortegnelse; gazetteer"^^<@da> .
+<http://iso.org/tc211/term/193> <http://www.w3.org/2004/02/skos/core#definition> "liste over instanser af en eller flere klasser af features, der indeholder oplysninger om position"^^<@da> .
+<http://iso.org/tc211/term/193> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Positionsoplysningerne beh\u00F8ver ikke at v\u00E6re koordinater, men kan v\u00E6re deskriptive"^^<@da> .
+<http://iso.org/tc211/term/193> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Positionsoplysningerne beh\u00F8ver ikke at v\u00E6re koordinater, men kan v\u00E6re deskriptive"^^<@da> .
+
+<http://iso.org/tc211/term/726> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 En instans af det mere specifikke element kan bruges, hvor det mere generelle element er tilladt. Se: arv"^^<@da> .
+<http://iso.org/tc211/term/726> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 En instans af det mere specifikke element kan bruges, hvor det mere generelle element er tilladt. Se: arv"^^<@da> .
+<http://iso.org/tc211/term/726> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/726> <http://www.w3.org/2004/02/skos/core#definition> "taksonomisk relation mellem et mere generelt element og et mere specifikt element, som er i fuld overensstemmelse med det mere generelle element og indeholder yderligere information"^^<@da> .
+<http://iso.org/tc211/term/726> <http://www.w3.org/2004/02/skos/core#prefLabel> "generalisering <UML>"^^<@da> .
+
+<http://iso.org/tc211/term/195> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Geokodning henviser normalt til overs\u00E6ttelse af \"adresse\" eller \"knudepunkt\" til \"direkte position\". Mange udbydere indbygger ogs\u00E5 en \"omvendt geokodning\"-gr\u00E6nseflade i deres geokoder og udvider dermed definitionen af denne tjeneste til en generel overs\u00E6tter af lokalitet. Eftersom rutetjenester anvender interne lokalitetskodninger, som almindeligvis ikke er tilg\u00E6ngelige for andre, er en geokoder en integreret del af en s\u00E5dan tjeneste."^^<@da> .
+<http://iso.org/tc211/term/195> <http://www.w3.org/2004/02/skos/core#definition> "overs\u00E6ttelse af \u00E9n form for lokalitet til en anden"^^<@da> .
+<http://iso.org/tc211/term/195> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Geokodning henviser normalt til overs\u00E6ttelse af \"adresse\" eller \"knudepunkt\" til \"direkte position\". Mange udbydere indbygger ogs\u00E5 en \"omvendt geokodning\"-gr\u00E6nseflade i deres geokoder og udvider dermed definitionen af denne tjeneste til en generel overs\u00E6tter af lokalitet. Eftersom rutetjenester anvender interne lokalitetskodninger, som almindeligvis ikke er tilg\u00E6ngelige for andre, er en geokoder en integreret del af en s\u00E5dan tjeneste."^^<@da> .
+<http://iso.org/tc211/term/195> <http://www.w3.org/2004/02/skos/core#prefLabel> "geokodning"^^<@da> .
+<http://iso.org/tc211/term/195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/196> <http://www.w3.org/2004/02/skos/core#definition> "koordinatsystem, hvori position er angivet ved geod\u00E6tisk bredde, geod\u00E6tisk l\u00E6ngde og (hvis 3-dimensionalt) ellipsoideh\u00F8jde"^^<@da> .
+<http://iso.org/tc211/term/196> <http://www.w3.org/2004/02/skos/core#prefLabel> "geod\u00E6tisk koordinatsystem"^^<@da> .
+<http://iso.org/tc211/term/196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/198> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 I de fleste tilf\u00E6lde indeholder det geod\u00E6tiske datum en ellipsoidedefinition."^^<@da> .
+<http://iso.org/tc211/term/198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/198> <http://www.w3.org/2004/02/skos/core#definition> "datum, der beskriver relationen mellem et koordinatsystem og jorden"^^<@da> .
+<http://iso.org/tc211/term/198> <http://www.w3.org/2004/02/skos/core#prefLabel> "geod\u00E6tisk datum"^^<@da> .
+<http://iso.org/tc211/term/198> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 I de fleste tilf\u00E6lde indeholder det geod\u00E6tiske datum en ellipsoidedefinition."^^<@da> .
+
+<http://iso.org/tc211/term/199> <http://www.w3.org/2004/02/skos/core#definition> "et punkts afstand fra ellipsoiden m\u00E5lt langs normalen fra ellipsoiden til dette punkt. Den er positiv, hvis punktet ligger over eller uden for ellipsoiden"^^<@da> .
+<http://iso.org/tc211/term/199> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Benyttes kun som en del af et 3-dimensionalt geod\u00E6tisk koordinatsystem og aldrig alene."^^<@da> .
+<http://iso.org/tc211/term/199> <http://www.w3.org/2004/02/skos/core#prefLabel> "geod\u00E6tisk h\u00F8jde"^^<@da> .
+<http://iso.org/tc211/term/199> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Benyttes kun som en del af et 3-dimensionalt geod\u00E6tisk koordinatsystem og aldrig alene."^^<@da> .
+<http://iso.org/tc211/term/199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/200> <http://www.w3.org/2004/02/skos/core#definition> "vinkel mellem \u00E6kvitorialfladen og den vinkelrette p\u00E5 ellipsoiden gennem et givet punkt, hvor nord regnes positiv"^^<@da> .
+<http://iso.org/tc211/term/200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/200> <http://www.w3.org/2004/02/skos/core#prefLabel> "geod\u00E6tisk bredde"^^<@da> .
+
+<http://iso.org/tc211/term/201> <http://www.w3.org/2004/02/skos/core#definition> "vinkel fra hovedmeridianplanet til et givet punkts meridianplan, hvor \u00F8st regnes positiv"^^<@da> .
+<http://iso.org/tc211/term/201> <http://www.w3.org/2004/02/skos/core#prefLabel> "geod\u00E6tisk l\u00E6ngde"^^<@da> .
+<http://iso.org/tc211/term/201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/203> <http://www.w3.org/2004/02/skos/core#definition> "repr\u00E6sentation af f\u00E6nomener fra den virkelige verden associeret med en lokalitet relateret til jorden"^^<@da> .
+<http://iso.org/tc211/term/203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/203> <http://www.w3.org/2004/02/skos/core#prefLabel> "geografisk feature"^^<@da> .
+
+<http://iso.org/tc211/term/204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/204> <http://www.w3.org/2004/02/skos/core#definition> "rumlig reference i form af et m\u00E6rke eller en kode, der identificerer en lokalitet"^^<@da> .
+<http://iso.org/tc211/term/204> <http://www.w3.org/2004/02/skos/core#prefLabel> "geografisk identifikator"^^<@da> .
+
+<http://iso.org/tc211/term/205> <http://www.w3.org/2004/02/skos/core#prefLabel> "geografisk information"^^<@da> .
+<http://iso.org/tc211/term/205> <http://www.w3.org/2004/02/skos/core#definition> "information om f\u00E6nomener, der implicit eller eksplicit er associeret med en lokalitet relateret til jorden"^^<@da> .
+<http://iso.org/tc211/term/205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/206> <http://www.w3.org/2004/02/skos/core#definition> "tjeneste, der transformerer, administrerer eller pr\u00E6senterer geografisk information for brugere"^^<@da> .
+<http://iso.org/tc211/term/206> <http://www.w3.org/2004/02/skos/core#prefLabel> "geografisk informationstjeneste"^^<@da> .
+<http://iso.org/tc211/term/206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/207> <http://www.w3.org/2004/02/skos/core#definition> "informationssystem, der behandler information om f\u00E6nomener associeret med lokaliteter relateret til jorden"^^<@da> .
+<http://iso.org/tc211/term/207> <http://www.w3.org/2004/02/skos/core#prefLabel> "geografisk informationssystem"^^<@da> .
+<http://iso.org/tc211/term/207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/208> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 \"Plan overflade\" betyder en \u00E6kvipotential flade i jordens tyngdefelt, der overalt er vinkelret p\u00E5 tyngdekraftens retning."^^<@da> .
+<http://iso.org/tc211/term/208> <http://www.w3.org/2004/02/skos/core#prefLabel> "geoide"^^<@da> .
+<http://iso.org/tc211/term/208> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 \"Plan overflade\" betyder en \u00E6kvipotential flade i jordens tyngdefelt, der overalt er vinkelret p\u00E5 tyngdekraftens retning."^^<@da> .
+<http://iso.org/tc211/term/208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/208> <http://www.w3.org/2004/02/skos/core#definition> "plan overflade, der bedst passer til havenes middelvandstand enten lokalt eller globalt"^^<@da> .
+
+<http://iso.org/tc211/term/210> <http://www.w3.org/2004/02/skos/core#prefLabel> "geometrisk aggregering"^^<@da> .
+<http://iso.org/tc211/term/210> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Der kan ikke sluttes noget ang. de rumlige relationer mellem elementerne."^^<@da> .
+<http://iso.org/tc211/term/210> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Der kan ikke sluttes noget ang. de rumlige relationer mellem elementerne."^^<@da> .
+<http://iso.org/tc211/term/210> <http://www.w3.org/2004/02/skos/core#definition> "samling af geometriske objekter, der ikke har nogen indre struktur"^^<@da> .
+<http://iso.org/tc211/term/210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/211> <http://www.w3.org/2004/02/skos/core#prefLabel> "geometrisk afgr\u00E6nsning"^^<@da> .
+<http://iso.org/tc211/term/211> <http://www.w3.org/2004/02/skos/core#definition> "afgr\u00E6nsning, repr\u00E6senteret af en m\u00E6ngde af geometriske grundformer af en mindre geometrisk dimension, der begr\u00E6nser udbredelsen af et geometrisk objekt"^^<@da> .
+
+<http://iso.org/tc211/term/212> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 De geometriske grundformer i m\u00E6ngden er adskilt i den forstand, at der ikke er nogen direkte position, som ligger inden for mere end \u00E9n geometrisk grundform.  M\u00E6ngden er lukket under gr\u00E6nseoperationer, dvs. at for hvert element i den komplekse geometri er der en aggregering (ogs\u00E5 en kompleks geometri) af geometriske grundformer, der repr\u00E6senterer elementets gr\u00E6nse. Bem\u00E6rk, at afgr\u00E6nsningen af et punkt (eneste 0D-grundform objekttype i den geometriske teori) er tom. Hvis den geometriske grundform med st\u00F8rst dimension s\u00E5ledes er et fast legeme (3D), slutter sammens\u00E6tningen af gr\u00E6nseoperatoren efter denne definition efter h\u00F8jst 3 trin. Heraf f\u00F8lger, at afgr\u00E6nsningen af ethvert objekt m\u00E5 v\u00E6re en kreds."^^<@da> .
+<http://iso.org/tc211/term/212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/212> <http://www.w3.org/2004/02/skos/core#definition> "m\u00E6ngde af adskilte geometriske grundformer, hvor afgr\u00E6nsningen af hver geometrisk grundform kan repr\u00E6senteres som aggregeringen af andre geometriske grundformer af mindre st\u00F8rrelse inden for samme m\u00E6ngde"^^<@da> .
+<http://iso.org/tc211/term/212> <http://www.w3.org/2004/02/skos/core#prefLabel> "geometrisk kompleks"^^<@da> .
+<http://iso.org/tc211/term/212> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 De geometriske grundformer i m\u00E6ngden er adskilt i den forstand, at der ikke er nogen direkte position, som ligger inden for mere end \u00E9n geometrisk grundform.  M\u00E6ngden er lukket under gr\u00E6nseoperationer, dvs. at for hvert element i den komplekse geometri er der en aggregering (ogs\u00E5 en kompleks geometri) af geometriske grundformer, der repr\u00E6senterer elementets gr\u00E6nse. Bem\u00E6rk, at afgr\u00E6nsningen af et punkt (eneste 0D-grundform objekttype i den geometriske teori) er tom. Hvis den geometriske grundform med st\u00F8rst dimension s\u00E5ledes er et fast legeme (3D), slutter sammens\u00E6tningen af gr\u00E6nseoperatoren efter denne definition efter h\u00F8jst 3 trin. Heraf f\u00F8lger, at afgr\u00E6nsningen af ethvert objekt m\u00E5 v\u00E6re en kreds."^^<@da> .
+
+<http://iso.org/tc211/term/213> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Da kurver er kontinuerte billeder af et udsnit af den virkelige linje, har de geometrisk dimension 1. Flader kan ikke mappes til R2 i deres helhed, men rundt om hver punktposition kan der v\u00E6re et lille omr\u00E5de, der (under kontinuerte funktioner) ligner det indre af enhedscirklen i R2, og derfor er de 2-dimensionale. I denne internationale standard mappes de fleste fladeudsnit (instanser af GM_SurfacePatch) til dele af R2 ved hj\u00E6lp af de interpolationsmekanismer, der definerer dem."^^<@da> .
+<http://iso.org/tc211/term/213> <http://www.w3.org/2004/02/skos/core#definition> "st\u00F8rste antal n, s\u00E5ledes at enhver direkte position i en geometrisk m\u00E6ngde kan forbindes med en delm\u00E6ngde, som den direkte position ligger inden i og som ligner (er isomorf med) Rn, Euklidisk n-rum"^^<@da> .
+<http://iso.org/tc211/term/213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/213> <http://www.w3.org/2004/02/skos/core#prefLabel> "geometrisk dimension"^^<@da> .
+<http://iso.org/tc211/term/213> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Da kurver er kontinuerte billeder af et udsnit af den virkelige linje, har de geometrisk dimension 1. Flader kan ikke mappes til R2 i deres helhed, men rundt om hver punktposition kan der v\u00E6re et lille omr\u00E5de, der (under kontinuerte funktioner) ligner det indre af enhedscirklen i R2, og derfor er de 2-dimensionale. I denne internationale standard mappes de fleste fladeudsnit (instanser af GM_SurfacePatch) til dele af R2 ved hj\u00E6lp af de interpolationsmekanismer, der definerer dem."^^<@da> .
+
+<http://iso.org/tc211/term/214> <http://www.w3.org/2004/02/skos/core#definition> "rumligt objekt, der repr\u00E6senterer en geometrisk m\u00E6ngde"^^<@da> .
+<http://iso.org/tc211/term/214> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Et geometrisk objekt best\u00E5r af en geometrisk grundform, en aggregering af geometriske grundformer eller en kompleks geometri, der behandles som en enkelt entitet. Et geometrisk objekt kan v\u00E6re den rumlige repr\u00E6sentation af et objekt s\u00E5som en feature, eller en v\u00E6sentlig del af en feature."^^<@da> .
+<http://iso.org/tc211/term/214> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Et geometrisk objekt best\u00E5r af en geometrisk grundform, en aggregering af geometriske grundformer eller en kompleks geometri, der behandles som en enkelt entitet. Et geometrisk objekt kan v\u00E6re den rumlige repr\u00E6sentation af et objekt s\u00E5som en feature, eller en v\u00E6sentlig del af en feature."^^<@da> .
+<http://iso.org/tc211/term/214> <http://www.w3.org/2004/02/skos/core#prefLabel> "geometrisk objekt"^^<@da> .
+<http://iso.org/tc211/term/214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/215> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Geometriske grundformer er ikke-opdelte objekter, der pr\u00E6senterer information om geometrisk konfiguration. De best\u00E5r bl.a. af punkter, kurver, flader og faste legemer."^^<@da> .
+<http://iso.org/tc211/term/215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/215> <http://www.w3.org/2004/02/skos/core#prefLabel> "geometrisk grundform"^^<@da> .
+<http://iso.org/tc211/term/215> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Geometriske grundformer er ikke-opdelte objekter, der pr\u00E6senterer information om geometrisk konfiguration. De best\u00E5r bl.a. af punkter, kurver, flader og faste legemer."^^<@da> .
+<http://iso.org/tc211/term/215> <http://www.w3.org/2004/02/skos/core#definition> "geometrisk objekt, der repr\u00E6senterer et enkelt, forbundet, homogent element af rum"^^<@da> .
+
+<http://iso.org/tc211/term/216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/216> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 I en s\u00E5dan realisering anses de topologiske grundformer for at repr\u00E6sentere det indre af de tilsvarende geometriske grundformer."^^<@da> .
+<http://iso.org/tc211/term/216> <http://www.w3.org/2004/02/skos/core#prefLabel> "geometrisk realisering"^^<@da> .
+<http://iso.org/tc211/term/216> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 I en s\u00E5dan realisering anses de topologiske grundformer for at repr\u00E6sentere det indre af de tilsvarende geometriske grundformer."^^<@da> .
+<http://iso.org/tc211/term/216> <http://www.w3.org/2004/02/skos/core#definition> "geometrisk kompleks, hvis geometriske grundformer st\u00E5r i et 1:1-forhold til de topologiske grundformer i et topologisk kompleks, s\u00E5ledes at der er overensstemmelse mellem de to kompleksers gr\u00E6nserelationer"^^<@da> .
+
+<http://iso.org/tc211/term/217> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Denne m\u00E6ngde er i de fleste tilf\u00E6lde uendelig"^^<@da> .
+<http://iso.org/tc211/term/217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/217> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Denne m\u00E6ngde er i de fleste tilf\u00E6lde uendelig"^^<@da> .
+<http://iso.org/tc211/term/217> <http://www.w3.org/2004/02/skos/core#definition> "m\u00E6ngde af direkte positioner"^^<@da> .
+<http://iso.org/tc211/term/217> <http://www.w3.org/2004/02/skos/core#prefLabel> "geometrisk m\u00E6ngde"^^<@da> .
+
+<http://iso.org/tc211/term/757> <http://www.w3.org/2004/02/skos/core#definition> "objekt sammensat af et s\u00E6t af geometriske v\u00E6rdipar"^^<@da> .
+<http://iso.org/tc211/term/757> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/757> <http://www.w3.org/2004/02/skos/core#prefLabel> "geometrisk v\u00E6rdiobjekt"^^<@da> .
+
+<http://iso.org/tc211/term/758> <http://www.w3.org/2004/02/skos/core#prefLabel> "geometrisk v\u00E6rdipar"^^<@da> .
+<http://iso.org/tc211/term/758> <http://www.w3.org/2004/02/skos/core#definition> "ordnet par sammensat af et rumligt objekt, et temporalt objekt eller et rumligt-temporalt objekt og en record af featureattribut-v\u00E6rdier"^^<@da> .
+<http://iso.org/tc211/term/758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/756> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 I GIS-systemer kan en graf have mere end \u00E9n kant, der forbinder to knuder, og have en kant, som har samme knude ved begge ender."^^<@da> .
+<http://iso.org/tc211/term/756> <http://www.w3.org/2004/02/skos/core#prefLabel> "graf"^^<@da> .
+<http://iso.org/tc211/term/756> <http://www.w3.org/2004/02/skos/core#definition> "m\u00E6ngde af knuder, hvoraf nogle er forbundet ved kanterne"^^<@da> .
+<http://iso.org/tc211/term/756> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 I GIS-systemer kan en graf have mere end \u00E9n kant, der forbinder to knuder, og have en kant, som har samme knude ved begge ender."^^<@da> .
+<http://iso.org/tc211/term/756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/755> <http://www.w3.org/2004/02/skos/core#definition> "sprog, hvis syntaks udtrykkes ved hj\u00E6lp af grafiske symboler"^^<@da> .
+<http://iso.org/tc211/term/755> <http://www.w3.org/2004/02/skos/core#prefLabel> "grafisk sprog"^^<@da> .
+<http://iso.org/tc211/term/755> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/218> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Is\u00E6r ortometrisk h\u00F8jde eller normal h\u00F8jde, der begge er tiln\u00E6rmelser af et punkts afstand over middelvandstanden."^^<@da> .
+<http://iso.org/tc211/term/218> <http://www.w3.org/2004/02/skos/core#prefLabel> "tyngderelateret h\u00F8jde"^^<@da> .
+<http://iso.org/tc211/term/218> <http://www.w3.org/2004/02/skos/core#definition> "h\u00F8jde afh\u00E6ngig af jordens tyngdefelt"^^<@da> .
+<http://iso.org/tc211/term/218> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Is\u00E6r ortometrisk h\u00F8jde eller normal h\u00F8jde, der begge er tiln\u00E6rmelser af et punkts afstand over middelvandstanden."^^<@da> .
+<http://iso.org/tc211/term/218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/219> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 De fleste geod\u00E6tiske datummer anvender Greenwich-meridianen som nulmeridian. Dens n\u00F8jagtige position er lidt forskellig for forskellige datummer."^^<@da> .
+<http://iso.org/tc211/term/219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/219> <http://www.w3.org/2004/02/skos/core#definition> "meridian, der g\u00E5r igennem positionen Airy Transit Circle i Royal Observatory Greenwich i Storbritannien"^^<@da> .
+<http://iso.org/tc211/term/219> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 De fleste geod\u00E6tiske datummer anvender Greenwich-meridianen som nulmeridian. Dens n\u00F8jagtige position er lidt forskellig for forskellige datummer."^^<@da> .
+<http://iso.org/tc211/term/219> <http://www.w3.org/2004/02/skos/core#prefLabel> "Greenwich-meridian"^^<@da> .
+
+<http://iso.org/tc211/term/220> <http://www.w3.org/2004/02/skos/core#note> "NOTE 1 \u2013 Overgangen til den gregorianske kalender medf\u00F8rte, at de akkumulerede un\u00F8jagtigheder i det julianske \u00E5r blev fjernet. I den gregorianske kalender er et kalender\u00E5r enten et almindeligt \u00E5r eller et skud\u00E5r; hvert \u00E5r er inddelt i 12 fortl\u00F8bende m\u00E5neder."^^<@da> .
+<http://iso.org/tc211/term/220> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE 1 \u2013 Overgangen til den gregorianske kalender medf\u00F8rte, at de akkumulerede un\u00F8jagtigheder i det julianske \u00E5r blev fjernet. I den gregorianske kalender er et kalender\u00E5r enten et almindeligt \u00E5r eller et skud\u00E5r; hvert \u00E5r er inddelt i 12 fortl\u00F8bende m\u00E5neder."^^<@da> .
+<http://iso.org/tc211/term/220> <http://www.w3.org/2004/02/skos/core#prefLabel> "gregoriansk kalender"^^<@da> .
+<http://iso.org/tc211/term/220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/220> <http://www.w3.org/2004/02/skos/core#definition> "almindeligt brugt kalender; indf\u00F8rt i 1582 for at definere et \u00E5r, der lignede det tropiske \u00E5r mere end den julianske kalender"^^<@da> .
+
+<http://iso.org/tc211/term/221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/221> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Kurverne inddeler et rum i grid-celler."^^<@da> .
+<http://iso.org/tc211/term/221> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Kurverne inddeler et rum i grid-celler."^^<@da> .
+<http://iso.org/tc211/term/221> <http://www.w3.org/2004/02/skos/core#definition> "netv\u00E6rk best\u00E5ende af to eller flere m\u00E6ngder af kurver, hvori elementerne i hver m\u00E6ngde krydser elementerne i de andre m\u00E6ngder p\u00E5 en algoritmisk m\u00E5de"^^<@da> .
+<http://iso.org/tc211/term/221> <http://www.w3.org/2004/02/skos/core#prefLabel> "grid"^^<@da> .
+
+<http://iso.org/tc211/term/223> <http://www.w3.org/2004/02/skos/core#prefLabel> "grid-punkt"^^<@da> .
+<http://iso.org/tc211/term/223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/223> <http://www.w3.org/2004/02/skos/core#definition> "punkt beliggende i sk\u00E6ringspunktet mellem to eller flere kurver i et grid"^^<@da> .
+
+<http://iso.org/tc211/term/226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/226> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE 2 \u2013 H\u00F8jde af et punkt uden for overfladen regnes positiv; negativ h\u00F8jde kaldes ogs\u00E5 dybde."^^<@da> .
+<http://iso.org/tc211/term/226> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Se ellipsoideh\u00F8jde og tyngderelateret h\u00F8jde."^^<@da> .
+<http://iso.org/tc211/term/226> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Se ellipsoideh\u00F8jde og tyngderelateret h\u00F8jde."^^<@da> .
+<http://iso.org/tc211/term/226> <http://www.w3.org/2004/02/skos/core#note> "NOTE 2 \u2013 H\u00F8jde af et punkt uden for overfladen regnes positiv; negativ h\u00F8jde kaldes ogs\u00E5 dybde."^^<@da> .
+<http://iso.org/tc211/term/226> <http://www.w3.org/2004/02/skos/core#prefLabel> "h\u00F8jde"^^<@da> .
+<http://iso.org/tc211/term/226> <http://www.w3.org/2004/02/skos/core#definition> "et punkts afstand fra en valgt referenceoverflade langs en linje, der er vinkelret p\u00E5 denne overflade"^^<@da> .
+
+<http://iso.org/tc211/term/227> <http://www.w3.org/2004/02/skos/core#definition> "struktureret s\u00E6t af registre for et dom\u00E6ne af registerelementer, best\u00E5ende af et hovedregister og et s\u00E6t af delregistre"^^<@da> .
+<http://iso.org/tc211/term/227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/227> <http://www.w3.org/2004/02/skos/core#prefLabel> "hierarkisk register"^^<@da> .
+
+<http://iso.org/tc211/term/228> <http://www.w3.org/2004/02/skos/core#note> "NOTE - Homomorfismer adskiller sig fra isomorfismer ved, at der ikke kr\u00E6ves en omvendt funktion. I en isomorfisme er der grundl\u00E6ggende to homomorfismer, som er funktionsm\u00E6ssigt omvendte af hinanden. Kontinuerte funktioner er topologiske homomorfismer, da de bevarer \"topologiske karakteristika\". Mapning af topologiske komplekser til deres geometriske realiseringer bevarer princippet om afgr\u00E6nsning og er derfor en homomorfisme."^^<@da> .
+<http://iso.org/tc211/term/228> <http://www.w3.org/2004/02/skos/core#prefLabel> "homomorfisme"^^<@da> .
+<http://iso.org/tc211/term/228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/228> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE - Homomorfismer adskiller sig fra isomorfismer ved, at der ikke kr\u00E6ves en omvendt funktion. I en isomorfisme er der grundl\u00E6ggende to homomorfismer, som er funktionsm\u00E6ssigt omvendte af hinanden. Kontinuerte funktioner er topologiske homomorfismer, da de bevarer \"topologiske karakteristika\". Mapning af topologiske komplekser til deres geometriske realiseringer bevarer princippet om afgr\u00E6nsning og er derfor en homomorfisme."^^<@da> .
+<http://iso.org/tc211/term/228> <http://www.w3.org/2004/02/skos/core#definition> "relation mellem to dom\u00E6ner (som fx to komplekser), s\u00E5ledes at der er en strukturbevarende funktion fra den ene til den anden"^^<@da> .
+
+<http://iso.org/tc211/term/235> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 I ISO's geografiske informationsstandarder omfatter dette geografiske informationstjenester og datas\u00E6t."^^<@da> .
+<http://iso.org/tc211/term/235> <http://www.w3.org/2004/02/skos/core#prefLabel> "implementering"^^<@da> .
+<http://iso.org/tc211/term/235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/235> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 I ISO's geografiske informationsstandarder omfatter dette geografiske informationstjenester og datas\u00E6t."^^<@da> .
+<http://iso.org/tc211/term/235> <http://www.w3.org/2004/02/skos/core#definition> "realisering af en specifikation"^^<@da> .
+
+<http://iso.org/tc211/term/236> <http://www.w3.org/2004/02/skos/core#definition> "udtalelse om, hvilke dele af  specifikationen der er implementeret"^^<@da> .
+<http://iso.org/tc211/term/236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/236> <http://www.w3.org/2004/02/skos/core#prefLabel> "ICS (udtalelse om implementeringens grad af overensstemmelse)"^^<@da> .
+
+<http://iso.org/tc211/term/237> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 IXIT giver typisk detaljer om organisationen og lagringen af begreber i SUT samt om m\u00E5den man tilg\u00E5r og \u00E6ndrer SUT p\u00E5."^^<@da> .
+<http://iso.org/tc211/term/237> <http://www.w3.org/2004/02/skos/core#prefLabel> "IXIT (ekstra implementeringsinformation til test)"^^<@da> .
+<http://iso.org/tc211/term/237> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 IXIT giver typisk detaljer om organisationen og lagringen af begreber i SUT samt om m\u00E5den man tilg\u00E5r og \u00E6ndrer SUT p\u00E5."^^<@da> .
+<http://iso.org/tc211/term/237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/237> <http://www.w3.org/2004/02/skos/core#definition> "udtalelse, der indeholder alle informationer vedr\u00F8rende IUT og dens tilsvarende SUT, som s\u00E6tter testlaboratoriet i stand til at gennemf\u00F8re en egnet testsuite af denne IUT"^^<@da> .
+
+<http://iso.org/tc211/term/238> <http://www.w3.org/2004/02/skos/core#definition> "testudfald, som viser at der hverken er overensstemmelse eller manglende overensstemmelse"^^<@da> .
+<http://iso.org/tc211/term/238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/238> <http://www.w3.org/2004/02/skos/core#prefLabel> "uafklaret afg\u00F8relse"^^<@da> .
+
+<http://iso.org/tc211/term/239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/239> <http://www.w3.org/2004/02/skos/core#definition> "metode til vurdering af kvaliteten af et datas\u00E6t baseret p\u00E5 ekstern viden"^^<@da> .
+<http://iso.org/tc211/term/239> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Eksempler p\u00E5 ekstern viden er datas\u00E6t-historik s\u00E5som produktionsmetode eller kildedata."^^<@da> .
+<http://iso.org/tc211/term/239> <http://www.w3.org/2004/02/skos/core#prefLabel> "indirekte vurderingsmetode"^^<@da> .
+<http://iso.org/tc211/term/239> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Eksempler p\u00E5 ekstern viden er datas\u00E6t-historik s\u00E5som produktionsmetode eller kildedata."^^<@da> .
+
+<http://iso.org/tc211/term/240> <http://www.w3.org/2004/02/skos/core#prefLabel> "inertibaseret stedsbestemmelsessystem"^^<@da> .
+<http://iso.org/tc211/term/240> <http://www.w3.org/2004/02/skos/core#definition> "stedsbestemmelsessystem, der benytter accelerometre, gyroskoper og computer som integrerede komponenter til at bestemme koordinater af punkter eller objekter i forhold til et oprindeligt kendt referencepunkt"^^<@da> .
+<http://iso.org/tc211/term/240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/241> <http://www.w3.org/2004/02/skos/core#prefLabel> "information"^^<@da> .
+<http://iso.org/tc211/term/241> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Objekter kan f.eks. v\u00E6re fakta, h\u00E6ndelser, ting, processer eller ideer, herunder begreber."^^<@da> .
+<http://iso.org/tc211/term/241> <http://www.w3.org/2004/02/skos/core#definition> "viden om objekter der har en s\u00E6rlig betydning i en bestemt kontekst"^^<@da> .
+<http://iso.org/tc211/term/241> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Objekter kan f.eks. v\u00E6re fakta, h\u00E6ndelser, ting, processer eller ideer, herunder begreber."^^<@da> .
+
+<http://iso.org/tc211/term/242> <http://www.w3.org/2004/02/skos/core#prefLabel> "synsvinkel, information"^^<@da> .
+<http://iso.org/tc211/term/242> <http://www.w3.org/2004/02/skos/core#definition> "synsvinkel p\u00E5 et ODP-system og dets omgivelser, der fokuserer p\u00E5 informationens og informationsbehandlingens semantik"^^<@da> .
+<http://iso.org/tc211/term/242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://iso.org/tc211/term/243> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE -  Se generalisering."^^<@da> .
+<http://iso.org/tc211/term/243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/243> <http://www.w3.org/2004/02/skos/core#note> "NOTE -  Se generalisering."^^<@da> .
+<http://iso.org/tc211/term/243> <http://www.w3.org/2004/02/skos/core#definition> "mekanisme, hvorved flere specifikke elementer indeholder struktur og egenskaber fra mere generelle elementer, der er forbundet ved adf\u00E6rd og egenskaber"^^<@da> .
+<http://iso.org/tc211/term/243> <http://www.w3.org/2004/02/skos/core#prefLabel> "arv <UML>"^^<@da> .
+
+<http://iso.org/tc211/term/244> <http://www.w3.org/2004/02/skos/core#definition> "realisering af et objekt eller klasse"^^<@da> .
+<http://iso.org/tc211/term/244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://iso.org/tc211/term/244> <http://www.w3.org/2004/02/skos/core#prefLabel> "instans"^^<@da> .
+
+<http://iso.org/tc211/term/727> <http://www.w3.org/2004/02/skos/core#note> "NOTE \u2013 Se: objekt."^^<@da> .
+<http://iso.org/tc211/term/727> <http://www.w3.org/2004/02/skos/core#definition> "entitet med entydig identitet, et s\u00E6t operationer, der skal anvendes p\u00E5 den, og er i stand til at lagre resultatet af operationerne"^^<@da> .
+<http://iso.org/tc211/term/727> <http://www.w3.org/2004/02/skos/core#prefLabel> "instans <UML>"^^<@da> .
+<http://iso.org/tc211/term/727> <http://www.w3.org/2000/01/rdf-schema#comment> "NOTE \u2013 Se: objekt."^^<@da> .
+<http://iso.org/tc211/term/727> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
