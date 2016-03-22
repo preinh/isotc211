@@ -1,0 +1,116 @@
+{
+    "id": "04_danish_clean_Sheet1",
+    "name": "04_danish_clean_Sheet1",
+    "description": null,
+    "sourceColumns": [
+        {
+            "id": "HN141589",
+            "hNodeId": "HN141589",
+            "columnName": "Term_ID [ENGLISH]    Data Type Integer"
+        },
+        {
+            "id": "HN150341",
+            "hNodeId": "HN150341",
+            "columnName": "note1 comment"
+        },
+        {
+            "id": "HN150555",
+            "hNodeId": "HN150555",
+            "columnName": "note2 comment"
+        },
+        {
+            "id": "HN141593",
+            "hNodeId": "HN141593",
+            "columnName": "Definition [OPERATING LANGUAGE]    Data Type Character String"
+        },
+        {
+            "id": "HN141614",
+            "hNodeId": "HN141614",
+            "columnName": "Note_1 [OPERATING LANGUAGE]    Data Type Character String"
+        },
+        {
+            "id": "HN141616",
+            "hNodeId": "HN141616",
+            "columnName": "Note_2 [OPERATING LANGUAGE]    Data Type Character String"
+        },
+        {
+            "id": "HN141590",
+            "hNodeId": "HN141590",
+            "columnName": "Term [OPERATING LANGUAGE]    Data Type Character String"
+        }
+    ],
+    "mappingToSourceColumns": [
+        {
+            "id": "HN150341",
+            "sourceColumnId": "HN150341"
+        },
+        {
+            "id": "HN141589",
+            "sourceColumnId": "HN141589"
+        },
+        {
+            "id": "HN150555",
+            "sourceColumnId": "HN150555"
+        },
+        {
+            "id": "HN141593",
+            "sourceColumnId": "HN141593"
+        },
+        {
+            "id": "HN141614",
+            "sourceColumnId": "HN141614"
+        },
+        {
+            "id": "HN141616",
+            "sourceColumnId": "HN141616"
+        },
+        {
+            "id": "HN141590",
+            "sourceColumnId": "HN141590"
+        }
+    ],
+    "graph": {
+        "nodes": [
+            {
+                "id": "http://www.w3.org/2004/02/skos/core#Concept1",
+                "label": {
+                    "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                },
+                "type": "InternalNode",
+                "modelIds": null
+            },
+            {
+                "id": "HN141589",
+                "label": {
+                    "uri": "HN141589"
+                },
+                "type": "ColumnNode",
+                "hNodeId": "HN141589",
+                "columnName": "Term_ID [ENGLISH]    Data Type Integer",
+                "rdfLiteralType": {
+                    "uri": "@da"
+                },
+                "userSemanticTypes": [
+                    {
+                        "hNodeId": "HN141589",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://isi.edu/integration/karma/dev#classLink"
+                        },
+                        "origin": "User",
+                        "confidenceScore": 1.0
+                    }
+                ],
+                "learnedSemanticTypes": [
+                    {
+                        "hNodeId": "HN141589",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://isi.edu/integration/karma/dev#classLink"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore"

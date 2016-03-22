@@ -1,0 +1,831 @@
+{
+    "id": "02_arabic_clean_Sheet1",
+    "name": "02_arabic_clean_Sheet1",
+    "description": null,
+    "sourceColumns": [
+        {
+            "id": "HN48811",
+            "hNodeId": "HN48811",
+            "columnName": "Term_ID [ENGLISH]    Data Type Integer"
+        },
+        {
+            "id": "HN78319",
+            "hNodeId": "HN78319",
+            "columnName": "note1 comment"
+        },
+        {
+            "id": "HN79009",
+            "hNodeId": "HN79009",
+            "columnName": "note2 comment"
+        },
+        {
+            "id": "HN48813",
+            "hNodeId": "HN48813",
+            "columnName": "Term_Abbreviation [OPERATING LANGUAGE]   Data Type Character String  Note - Only if an accepted abbreviation exists"
+        },
+        {
+            "id": "HN48815",
+            "hNodeId": "HN48815",
+            "columnName": "Definition [OPERATING LANGUAGE]    Data Type Character String"
+        },
+        {
+            "id": "HN48836",
+            "hNodeId": "HN48836",
+            "columnName": "Note_1 [OPERATING LANGUAGE]    Data Type Character String"
+        },
+        {
+            "id": "HN48838",
+            "hNodeId": "HN48838",
+            "columnName": "Note_2 [OPERATING LANGUAGE]    Data Type Character String"
+        },
+        {
+            "id": "HN48840",
+            "hNodeId": "HN48840",
+            "columnName": "Note_3 [OPERATING LANGUAGE]    Data Type Character String"
+        },
+        {
+            "id": "HN79699",
+            "hNodeId": "HN79699",
+            "columnName": "note3 comment"
+        },
+        {
+            "id": "HN48812",
+            "hNodeId": "HN48812",
+            "columnName": "Term [OPERATING LANGUAGE]    Data Type Character String"
+        }
+    ],
+    "mappingToSourceColumns": [
+        {
+            "id": "HN48836",
+            "sourceColumnId": "HN48836"
+        },
+        {
+            "id": "HN48813",
+            "sourceColumnId": "HN48813"
+        },
+        {
+            "id": "HN48838",
+            "sourceColumnId": "HN48838"
+        },
+        {
+            "id": "HN79699",
+            "sourceColumnId": "HN79699"
+        },
+        {
+            "id": "HN48815",
+            "sourceColumnId": "HN48815"
+        },
+        {
+            "id": "HN48840",
+            "sourceColumnId": "HN48840"
+        },
+        {
+            "id": "HN79009",
+            "sourceColumnId": "HN79009"
+        },
+        {
+            "id": "HN48812",
+            "sourceColumnId": "HN48812"
+        },
+        {
+            "id": "HN48811",
+            "sourceColumnId": "HN48811"
+        },
+        {
+            "id": "HN78319",
+            "sourceColumnId": "HN78319"
+        }
+    ],
+    "graph": {
+        "nodes": [
+            {
+                "id": "http://www.w3.org/2004/02/skos/core#Concept1",
+                "label": {
+                    "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                },
+                "type": "InternalNode",
+                "modelIds": null
+            },
+            {
+                "id": "HN48811",
+                "label": {
+                    "uri": "HN48811"
+                },
+                "type": "ColumnNode",
+                "hNodeId": "HN48811",
+                "columnName": "Term_ID [ENGLISH]    Data Type Integer",
+                "rdfLiteralType": {
+                    "uri": "@ar"
+                },
+                "userSemanticTypes": [
+                    {
+                        "hNodeId": "HN48811",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://isi.edu/integration/karma/dev#classLink"
+                        },
+                        "origin": "User",
+                        "confidenceScore": 1.0
+                    }
+                ],
+                "learnedSemanticTypes": [
+                    {
+                        "hNodeId": "HN48811",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://isi.edu/integration/karma/dev#classLink"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.76852477795539
+                    },
+                    {
+                        "hNodeId": "HN48811",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#notation"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.23147522204461005
+                    }
+                ],
+                "modelIds": null
+            },
+            {
+                "id": "HN78319",
+                "label": {
+                    "uri": "HN78319"
+                },
+                "type": "ColumnNode",
+                "hNodeId": "HN78319",
+                "columnName": "note1 comment",
+                "rdfLiteralType": {
+                    "uri": "@ar"
+                },
+                "userSemanticTypes": [
+                    {
+                        "hNodeId": "HN78319",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2000/01/rdf-schema#comment"
+                        },
+                        "origin": "User",
+                        "confidenceScore": 1.0
+                    }
+                ],
+                "learnedSemanticTypes": [
+                    {
+                        "hNodeId": "HN78319",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#note"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.4549571655810835
+                    },
+                    {
+                        "hNodeId": "HN78319",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2000/01/rdf-schema#comment"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.338860875752483
+                    },
+                    {
+                        "hNodeId": "HN78319",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://purl.org/dc/terms/provenance"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.10357527734987985
+                    },
+                    {
+                        "hNodeId": "HN78319",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://purl.org/dc/terms/source"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.10260668131655364
+                    }
+                ],
+                "modelIds": null
+            },
+            {
+                "id": "HN79009",
+                "label": {
+                    "uri": "HN79009"
+                },
+                "type": "ColumnNode",
+                "hNodeId": "HN79009",
+                "columnName": "note2 comment",
+                "rdfLiteralType": {
+                    "uri": "http://www.w3.org/2001/XMLSchema#@ar"
+                },
+                "userSemanticTypes": [
+                    {
+                        "hNodeId": "HN79009",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2000/01/rdf-schema#comment"
+                        },
+                        "origin": "User",
+                        "confidenceScore": 1.0
+                    }
+                ],
+                "learnedSemanticTypes": [],
+                "modelIds": null
+            },
+            {
+                "id": "HN48813",
+                "label": {
+                    "uri": "HN48813"
+                },
+                "type": "ColumnNode",
+                "hNodeId": "HN48813",
+                "columnName": "Term_Abbreviation [OPERATING LANGUAGE]   Data Type Character String  Note - Only if an accepted abbreviation exists",
+                "rdfLiteralType": {
+                    "uri": "@ar"
+                },
+                "userSemanticTypes": [
+                    {
+                        "hNodeId": "HN48813",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#altLabel"
+                        },
+                        "origin": "User",
+                        "confidenceScore": 1.0
+                    }
+                ],
+                "learnedSemanticTypes": [
+                    {
+                        "hNodeId": "HN48813",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#altLabel"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.7212432546674334
+                    },
+                    {
+                        "hNodeId": "HN48813",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#notation"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.1870355100878134
+                    },
+                    {
+                        "hNodeId": "HN48813",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#definition"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.05372905511756716
+                    },
+                    {
+                        "hNodeId": "HN48813",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#note"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.03799218012718602
+                    }
+                ],
+                "modelIds": null
+            },
+            {
+                "id": "HN48815",
+                "label": {
+                    "uri": "HN48815"
+                },
+                "type": "ColumnNode",
+                "hNodeId": "HN48815",
+                "columnName": "Definition [OPERATING LANGUAGE]    Data Type Character String",
+                "rdfLiteralType": {
+                    "uri": "@ar"
+                },
+                "userSemanticTypes": [
+                    {
+                        "hNodeId": "HN48815",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#definition"
+                        },
+                        "origin": "User",
+                        "confidenceScore": 1.0
+                    }
+                ],
+                "learnedSemanticTypes": [
+                    {
+                        "hNodeId": "HN48815",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#definition"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.45837489407037746
+                    },
+                    {
+                        "hNodeId": "HN48815",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://purl.org/dc/terms/description"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.1964394565025756
+                    },
+                    {
+                        "hNodeId": "HN48815",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#prefLabel"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.1730083070667075
+                    },
+                    {
+                        "hNodeId": "HN48815",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#note"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.1721773423603394
+                    }
+                ],
+                "modelIds": null
+            },
+            {
+                "id": "HN48836",
+                "label": {
+                    "uri": "HN48836"
+                },
+                "type": "ColumnNode",
+                "hNodeId": "HN48836",
+                "columnName": "Note_1 [OPERATING LANGUAGE]    Data Type Character String",
+                "rdfLiteralType": {
+                    "uri": "@ar"
+                },
+                "userSemanticTypes": [
+                    {
+                        "hNodeId": "HN48836",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#note"
+                        },
+                        "origin": "User",
+                        "confidenceScore": 1.0
+                    }
+                ],
+                "learnedSemanticTypes": [
+                    {
+                        "hNodeId": "HN48836",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#note"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.4797090345064207
+                    },
+                    {
+                        "hNodeId": "HN48836",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2000/01/rdf-schema#comment"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.31402398169393025
+                    },
+                    {
+                        "hNodeId": "HN48836",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://purl.org/dc/terms/source"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.12635681862876316
+                    },
+                    {
+                        "hNodeId": "HN48836",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#definition"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.0799101651708859
+                    }
+                ],
+                "modelIds": null
+            },
+            {
+                "id": "HN48838",
+                "label": {
+                    "uri": "HN48838"
+                },
+                "type": "ColumnNode",
+                "hNodeId": "HN48838",
+                "columnName": "Note_2 [OPERATING LANGUAGE]    Data Type Character String",
+                "rdfLiteralType": {
+                    "uri": "@ar"
+                },
+                "userSemanticTypes": [
+                    {
+                        "hNodeId": "HN48838",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#note"
+                        },
+                        "origin": "User",
+                        "confidenceScore": 1.0
+                    }
+                ],
+                "learnedSemanticTypes": [
+                    {
+                        "hNodeId": "HN48838",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://purl.org/dc/terms/provenance"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.2865988463432091
+                    },
+                    {
+                        "hNodeId": "HN48838",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#note"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.27756744580630266
+                    },
+                    {
+                        "hNodeId": "HN48838",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://purl.org/dc/terms/source"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.24820189566002118
+                    },
+                    {
+                        "hNodeId": "HN48838",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2000/01/rdf-schema#comment"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.18763181219046707
+                    }
+                ],
+                "modelIds": null
+            },
+            {
+                "id": "HN48840",
+                "label": {
+                    "uri": "HN48840"
+                },
+                "type": "ColumnNode",
+                "hNodeId": "HN48840",
+                "columnName": "Note_3 [OPERATING LANGUAGE]    Data Type Character String",
+                "rdfLiteralType": {
+                    "uri": "@ar"
+                },
+                "userSemanticTypes": [
+                    {
+                        "hNodeId": "HN48840",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#note"
+                        },
+                        "origin": "User",
+                        "confidenceScore": 1.0
+                    }
+                ],
+                "learnedSemanticTypes": [],
+                "modelIds": null
+            },
+            {
+                "id": "HN79699",
+                "label": {
+                    "uri": "HN79699"
+                },
+                "type": "ColumnNode",
+                "hNodeId": "HN79699",
+                "columnName": "note3 comment",
+                "rdfLiteralType": {
+                    "uri": "@ar"
+                },
+                "userSemanticTypes": [
+                    {
+                        "hNodeId": "HN79699",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#note"
+                        },
+                        "origin": "User",
+                        "confidenceScore": 1.0
+                    }
+                ],
+                "learnedSemanticTypes": [
+                    {
+                        "hNodeId": "HN79699",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#definition"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.291940741327969
+                    },
+                    {
+                        "hNodeId": "HN79699",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#note"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.28267042566158146
+                    },
+                    {
+                        "hNodeId": "HN79699",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://purl.org/dc/terms/source"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.21895556095071522
+                    },
+                    {
+                        "hNodeId": "HN79699",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://purl.org/dc/terms/description"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.20643327205973433
+                    }
+                ],
+                "modelIds": null
+            },
+            {
+                "id": "HN48812",
+                "label": {
+                    "uri": "HN48812"
+                },
+                "type": "ColumnNode",
+                "hNodeId": "HN48812",
+                "columnName": "Term [OPERATING LANGUAGE]    Data Type Character String",
+                "rdfLiteralType": {
+                    "uri": "@ar"
+                },
+                "userSemanticTypes": [
+                    {
+                        "hNodeId": "HN48812",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#prefLabel"
+                        },
+                        "origin": "User",
+                        "confidenceScore": 1.0
+                    }
+                ],
+                "learnedSemanticTypes": [
+                    {
+                        "hNodeId": "HN48812",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#prefLabel"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.44250559097322933
+                    },
+                    {
+                        "hNodeId": "HN48812",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2000/01/rdf-schema#label"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.3327773028571078
+                    },
+                    {
+                        "hNodeId": "HN48812",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#note"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.12177913965804767
+                    },
+                    {
+                        "hNodeId": "HN48812",
+                        "domain": {
+                            "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                        },
+                        "type": {
+                            "uri": "http://www.w3.org/2000/01/rdf-schema#comment"
+                        },
+                        "origin": "TfIdfModel",
+                        "confidenceScore": 0.10293796651161519
+                    }
+                ],
+                "modelIds": null
+            }
+        ],
+        "links": [
+            {
+                "id": "http://www.w3.org/2004/02/skos/core#Concept1---http://isi.edu/integration/karma/dev#classLink---HN48811",
+                "weight": 0.01,
+                "type": "ClassInstanceLink",
+                "label": {
+                    "uri": "http://isi.edu/integration/karma/dev#classLink"
+                },
+                "status": "ForcedByUser",
+                "keyInfo": "UriOfInstance",
+                "modelIds": null
+            },
+            {
+                "id": "http://www.w3.org/2004/02/skos/core#Concept1---http://www.w3.org/2000/01/rdf-schema#comment---HN78319",
+                "weight": 0.01,
+                "type": "DataPropertyLink",
+                "label": {
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#comment"
+                },
+                "status": "ForcedByUser",
+                "keyInfo": "None",
+                "modelIds": null
+            },
+            {
+                "id": "http://www.w3.org/2004/02/skos/core#Concept1---http://www.w3.org/2000/01/rdf-schema#comment---HN79009",
+                "weight": 0.01,
+                "type": "DataPropertyLink",
+                "label": {
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#comment"
+                },
+                "status": "ForcedByUser",
+                "keyInfo": "None",
+                "modelIds": null
+            },
+            {
+                "id": "http://www.w3.org/2004/02/skos/core#Concept1---http://www.w3.org/2004/02/skos/core#altLabel---HN48813",
+                "weight": 0.01,
+                "type": "DataPropertyLink",
+                "label": {
+                    "uri": "http://www.w3.org/2004/02/skos/core#altLabel"
+                },
+                "status": "ForcedByUser",
+                "keyInfo": "None",
+                "modelIds": null
+            },
+            {
+                "id": "http://www.w3.org/2004/02/skos/core#Concept1---http://www.w3.org/2004/02/skos/core#definition---HN48815",
+                "weight": 0.01,
+                "type": "DataPropertyLink",
+                "label": {
+                    "uri": "http://www.w3.org/2004/02/skos/core#definition"
+                },
+                "status": "ForcedByUser",
+                "keyInfo": "None",
+                "modelIds": null
+            },
+            {
+                "id": "http://www.w3.org/2004/02/skos/core#Concept1---http://www.w3.org/2004/02/skos/core#note---HN48836",
+                "weight": 0.01,
+                "type": "DataPropertyLink",
+                "label": {
+                    "uri": "http://www.w3.org/2004/02/skos/core#note"
+                },
+                "status": "ForcedByUser",
+                "keyInfo": "None",
+                "modelIds": null
+            },
+            {
+                "id": "http://www.w3.org/2004/02/skos/core#Concept1---http://www.w3.org/2004/02/skos/core#note---HN48838",
+                "weight": 0.01,
+                "type": "DataPropertyLink",
+                "label": {
+                    "uri": "http://www.w3.org/2004/02/skos/core#note"
+                },
+                "status": "ForcedByUser",
+                "keyInfo": "None",
+                "modelIds": null
+            },
+            {
+                "id": "http://www.w3.org/2004/02/skos/core#Concept1---http://www.w3.org/2004/02/skos/core#note---HN48840",
+                "weight": 0.01,
+                "type": "DataPropertyLink",
+                "label": {
+                    "uri": "http://www.w3.org/2004/02/skos/core#note"
+                },
+                "status": "ForcedByUser",
+                "keyInfo": "None",
+                "modelIds": null
+            },
+            {
+                "id": "http://www.w3.org/2004/02/skos/core#Concept1---http://www.w3.org/2004/02/skos/core#note---HN79699",
+                "weight": 0.01,
+                "type": "DataPropertyLink",
+                "label": {
+                    "uri": "http://www.w3.org/2004/02/skos/core#note"
+                },
+                "status": "ForcedByUser",
+                "keyInfo": "None",
+                "modelIds": null
+            },
+            {
+                "id": "http://www.w3.org/2004/02/skos/core#Concept1---http://www.w3.org/2004/02/skos/core#prefLabel---HN48812",
+                "weight": 0.01,
+                "type": "DataPropertyLink",
+                "label": {
+                    "uri": "http://www.w3.org/2004/02/skos/core#prefLabel"
+                },
+                "status": "ForcedByUser",
+                "keyInfo": "None",
+                "modelIds": null
+            }
+        ]
+    }
+}
